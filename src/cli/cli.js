@@ -3,12 +3,23 @@ let inquirer = require('inquirer');
 var chalkPipe = require('chalk-pipe');
 
 let modeSwitcher = {
-    'zh':'en',
-    'en':'zh'
+    'zh':{
+        B:'en',
+        questionPrefix:'How to express: ',
+        answerPrefix:'You can say: '
+    },
+    'en':{
+        B:'zh',
+        questionPrefix:'What\'s the mean of: ',
+        answerPrefix:'You can translate it into: '
+    }
+}
+let trimIdxPrefix = (txt)=>{
+    return txt.replace(/(\d+.*?)(\w.*?$)/, (a, b, c) => (c));
 }
 let showSentence = (idx, mode='zh') => {
     let sentence = sentences.splice(idx,1)[0];
-    let A = sentence[mode];
+    let A = trimIdxPrefix(sentence[mode]);
     let idxMatched = sentence['en'].match(/(\d+).*?\w.*?$/);
     let idxStr='';
     if(idxMatched && idxMatched[1].trim()){
@@ -17,15 +28,13 @@ let showSentence = (idx, mode='zh') => {
     let q = {
         type:'input',
         name:'question'+idx,
-        message:(idxStr?(idxStr+'. '):'') + 'How to express: ' + chalkPipe('#00c3f1.bold')(A)
+        message:(idxStr?(idxStr+'. '):'') + modeSwitcher[mode].questionPrefix + chalkPipe('#00c3f1.bold')(A)
     }
     inquirer.prompt(q).then(ans=>{
-        let targetMode = modeSwitcher[mode];
-        let B = sentence[targetMode];
-        if(targetMode=='en'){
-            B = B.replace(/(\d+.*?)(\w.*?$)/,(a,b,c)=>(c));
-        }
-        console.log(`\nYou can say: ${chalkPipe('green.bold')(B)}\n`);
+        let targetMode = modeSwitcher[mode].B;
+        let B = trimIdxPrefix(sentence[targetMode]);
+        
+        console.log(`\n${modeSwitcher[mode].answerPrefix}${chalkPipe('green.bold')(B)}\n`);
         if(!sentences.length)return;
         inquirer.prompt({
             type:'confirm',
@@ -47,7 +56,7 @@ var modePrompt = {
     type: 'list',
     name: 'mode',
     message: 'Which mode do you want to perform?',
-    choices: ['zh->en', 'en-zh']
+    choices: ['zh->en', 'en->zh']
 };
 inquirer.prompt(modePrompt).then(ans=>{
     let mode = ans.mode.split('->')[0];
