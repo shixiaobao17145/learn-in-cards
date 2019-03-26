@@ -1,0 +1,3589 @@
+[
+    {
+        "en": "16.. Hi, I’m Marvin.",
+        "zh": " 嗨，我是马文。"
+    },
+    {
+        "en": "17.. My name is Robert.",
+        "zh": " 我的名字叫罗伯特。"
+    },
+    {
+        "en": "18.. You can call me Beth.",
+        "zh": " 你可以叫我贝斯。"
+    },
+    {
+        "en": "19.. Are you Tina?",
+        "zh": " 你是蒂娜吗？"
+    },
+    {
+        "en": "20.. Yes, I am.",
+        "zh": " 是的，我是。"
+    },
+    {
+        "en": "21.. Meet my friend.",
+        "zh": " 来见见我的朋友。"
+    },
+    {
+        "en": "22..VThis is my brother, Thomas. ",
+        "zh": " 这是我哥哥，托马斯。"
+    },
+    {
+        "en": "23.. Come say hi to my parents.",
+        "zh": " 来和我父母打个招呼。"
+    },
+    {
+        "en": "24.. Have you met my sister?",
+        "zh": " 你见过我的姐姐了吗？"
+    },
+    {
+        "en": "25.. Have we met before?",
+        "zh": " 我们以前见过面吗？"
+    },
+    {
+        "en": "26.. Do I know you?",
+        "zh": " 我认识你吗？"
+    },
+    {
+        "en": "27.. I’m new around here. ",
+        "zh": " 我刚来这里。"
+    },
+    {
+        "en": "28.. Let me introduce myself.",
+        "zh": " 让我介绍一下自己。"
+    },
+    {
+        "en": "29.. I didn’t catch your name.",
+        "zh": " 我没有听清楚你的名字。"
+    },
+    {
+        "en": "30.0 I’m like to introduce you to my boss.",
+        "zh": " 我想把你介绍给我的老板。"
+    },
+    {
+        "en": "31. Thanks.",
+        "zh": " 谢谢。 "
+    },
+    {
+        "en": "32. Thank you.",
+        "zh": " 谢谢你。"
+    },
+    {
+        "en": "33. Don’t mention it.",
+        "zh": " 不用谢。"
+    },
+    {
+        "en": "34. You’re welcome.",
+        "zh": " 不用客气。"
+    },
+    {
+        "en": "35. I really appreciate this. ",
+        "zh": " 我对此很感激。"
+    },
+    {
+        "en": "36. Thanks for your help.",
+        "zh": " 感谢你的帮助。"
+    },
+    {
+        "en": "Is there someway I can repay you for this?",
+        "zh": "有什么方法可以让我为此对你进行回报？"
+    },
+    {
+        "en": "This is a big favor.",
+        "zh": "这是个大忙。"
+    },
+    {
+        "en": "You’ve been a big help.",
+        "zh": "你帮了我大忙。"
+    },
+    {
+        "en": "I can’t express how grateful I am.",
+        "zh": "我无法表达我的感激之情。"
+    },
+    {
+        "en": "I’m much obliged.",
+        "zh": "我深表感谢。"
+    },
+    {
+        "en": "You don’t know how much this means to me.",
+        "zh": "你不知道这（个忙）对我有多重要。"
+    },
+    {
+        "en": "You’re too kind.",
+        "zh": "你太好了。"
+    },
+    {
+        "en": "Thank you for everything you’ve done. ",
+        "zh": "感谢你所做的一切。"
+    },
+    {
+        "en": "I’m indebted to you.",
+        "zh": "我很感激你。"
+    },
+    {
+        "en": "I’m sorry.",
+        "zh": "对不起。"
+    },
+    {
+        "en": "I apologize.",
+        "zh": "我道歉。"
+    },
+    {
+        "en": "I’m so sorry.",
+        "zh": "非常对不起。"
+    },
+    {
+        "en": "I’m sorry for criticizing you.",
+        "zh": "对不起，我批评了你。"
+    },
+    {
+        "en": "It doesn’t matter. ",
+        "zh": "没关系。"
+    },
+    {
+        "en": "I really regret going to the movies last week.",
+        "zh": "我真的很后悔上个星期去看了电影。"
+    },
+    {
+        "en": "52. I wish I hadn’t said that at the party.",
+        "zh": " 我希望我当时在聚会上没说那些话。"
+    },
+    {
+        "en": "53. I’m sorry I was late for class today.",
+        "zh": " 很抱歉，我今天上课迟到了。 "
+    },
+    {
+        "en": "54. You can blame me for this.",
+        "zh": " 这都怪我。"
+    },
+    {
+        "en": "55. I’ll take the blame.",
+        "zh": " 这都怪我。"
+    },
+    {
+        "en": " Can you forgive me? ",
+        "zh": " 你能原谅我吗？"
+    },
+    {
+        "en": "57. Please accept my apology.",
+        "zh": " 请接受我的道歉。"
+    },
+    {
+        "en": "58. Can I make this up to you?",
+        "zh": " 我能为此对你做些补偿吗？"
+    },
+    {
+        "en": "59. How can I apologize to you?",
+        "zh": " 我该怎样向你道歉？"
+    },
+    {
+        "en": "60. This is all my fault.",
+        "zh": "61. 这都是我的错。"
+    },
+    {
+        "en": "62. ",
+        "zh": "【生词解读】"
+    },
+    {
+        "en": "1. apologize v.道歉；认错；赔不是",
+        "zh": "2. criticize v. 批评"
+    },
+    {
+        "en": "3. regret v. 懊悔；因...而遗憾",
+        "zh": "4. blame v. 责备；指责"
+    },
+    {
+        "en": "5. forgive v. 原谅；宽恕",
+        "zh": "6. accept v. 接受；同意"
+    },
+    {
+        "en": "61. I have to get going.",
+        "zh": " 我得走了。 "
+    },
+    {
+        "en": "62. See you later.",
+        "zh": " 呆会儿见。"
+    },
+    {
+        "en": "63. See you.",
+        "zh": " 再见。"
+    },
+    {
+        "en": "64. I should go now.",
+        "zh": " 我现在应该走了。"
+    },
+    {
+        "en": "65. Good-bye.",
+        "zh": " 再见。"
+    },
+    {
+        "en": "66. I’ll talk to you later.",
+        "zh": " 我呆会儿再和你谈。"
+    },
+    {
+        "en": "67. I’ve got to get going.",
+        "zh": " 我必须走了。"
+    },
+    {
+        "en": "68. I’m better run.",
+        "zh": " 我最好得赶紧走了。"
+    },
+    {
+        "en": "69. I’ll see you around.",
+        "zh": " 以后见。"
+    },
+    {
+        "en": "70. I’ll catch you later.",
+        "zh": " 以后见。"
+    },
+    {
+        "en": "71. Until we meet again.",
+        "zh": " 下次见。"
+    },
+    {
+        "en": "72. Keep in touch.",
+        "zh": " 保持联系。"
+    },
+    {
+        "en": "73. We should meet again.",
+        "zh": " 我们下次再见。"
+    },
+    {
+        "en": "74. It was nice meeting you.",
+        "zh": " 很高兴见到你。"
+    },
+    {
+        "en": "75. Take care.",
+        "zh": " 保重。"
+    },
+    {
+        "en": "76. I don’t feel like cooking.",
+        "zh": " 我不喜欢烹饪。"
+    },
+    {
+        "en": "77. I like Chinese food.",
+        "zh": " 我喜欢中国菜。"
+    },
+    {
+        "en": "78. I love dogs.",
+        "zh": " 我喜欢狗。"
+    },
+    {
+        "en": "79. I don’t like him.",
+        "zh": " 我不喜欢他。"
+    },
+    {
+        "en": "80. Do you like football?",
+        "zh": " 你喜欢足球吗？"
+    },
+    {
+        "en": "81. I hate the Yankees.",
+        "zh": " 我痛恨美国北方佬。"
+    },
+    {
+        "en": "82. I’m crazy about pizza.",
+        "zh": " 我非常喜欢比萨饼。"
+    },
+    {
+        "en": "83. I’m craving something to eat.",
+        "zh": " 我非常想吃点东西。"
+    },
+    {
+        "en": "84. I don’t care for your opinion.",
+        "zh": " 我不喜欢/赞同你的意见。"
+    },
+    {
+        "en": "85. I care about you a great deal.",
+        "zh": " 我很在乎你。"
+    },
+    {
+        "en": "86. I loathe the sight of you.",
+        "zh": " 我讨厌见到你。"
+    },
+    {
+        "en": "87. I’m fond of Italian music.",
+        "zh": " 我喜欢意大利音乐。"
+    },
+    {
+        "en": "88. He doesn’t find his job very appealing.",
+        "zh": " 他并不觉得他的工作有趣。"
+    },
+    {
+        "en": "89. She’s attracted to fast cars.",
+        "zh": " 她很喜欢跑车。"
+    },
+    {
+        "en": "90. I can’t stand these people.",
+        "zh": " 我受不了这些人。 "
+    },
+    {
+        "en": "9 I hope we win the tournament this year.",
+        "zh": " 我希望我们能赢今年的比赛。"
+    },
+    {
+        "en": "92. I hope so too.",
+        "zh": " 我也这么希望。"
+    },
+    {
+        "en": "93. What do you want for Christmas this year? ",
+        "zh": " 今年圣诞节你想要什么（礼物）？"
+    },
+    {
+        "en": "94. I wish it would stop raining.",
+        "zh": " 我希望这雨能停下来。"
+    },
+    {
+        "en": "95. I was thinking about going to that new place.",
+        "zh": " 我在考虑去那个新地方。"
+    },
+    {
+        "en": "96. I want to be a doctor.",
+        "zh": " 我想做个医生。"
+    },
+    {
+        "en": "97. I trust that all will be well.",
+        "zh": " 我相信一切都会好的。"
+    },
+    {
+        "en": "98. I believe things will get better.",
+        "zh": " 我相信事情会好转的。"
+    },
+    {
+        "en": "99. I could really use a drink right now.",
+        "zh": " 我现在很想喝点东西。"
+    },
+    {
+        "en": "100. I hope she feels better.",
+        "zh": " 我希望她感觉好些。"
+    },
+    {
+        "en": "101. Their only desire is for a new home.",
+        "zh": " 他们唯一的期望是有个新家。"
+    },
+    {
+        "en": "102. He’s the best hope for the team.",
+        "zh": " 他是全队最大的希望。"
+    },
+    {
+        "en": "103. I keep hoping that things will get better.",
+        "zh": " 我一直都希望事情会好转。"
+    },
+    {
+        "en": "104. I have to have that car.",
+        "zh": " 我得拥有那辆车。"
+    },
+    {
+        "en": "105. I need to be alone.",
+        "zh": " 我需要/想一个人呆。"
+    },
+    {
+        "en": "106. Oh, it’s wonderful.",
+        "zh": " 噢，太好了。"
+    },
+    {
+        "en": "107. Really?",
+        "zh": " 真的吗？"
+    },
+    {
+        "en": "108. This is such a surprise!",
+        "zh": " 这真让人惊奇！"
+    },
+    {
+        "en": "109. Wow, I’m so happy!",
+        "zh": " 噢，我真高兴！"
+    },
+    {
+        "en": "110. Can you believe what our teacher did today? ",
+        "zh": " 你简直不能相信我们老师今天做了什么事情?"
+    },
+    {
+        "en": "111.c This comes as a surprise.",
+        "zh": " 这让人惊奇。"
+    },
+    {
+        "en": "112. The best thing happened to me today.",
+        "zh": " 今天对我来说最好的一件事情。"
+    },
+    {
+        "en": "113. This is better than expected.",
+        "zh": " 这比预计的还要好。"
+    },
+    {
+        "en": "114. How delightful!",
+        "zh": " 真令人高兴！"
+    },
+    {
+        "en": "115. This is incredible.",
+        "zh": " 这简直令人难以置信。"
+    },
+    {
+        "en": "116. I can’t believe how good this is.",
+        "zh": " 这好得简直让我难以置信。"
+    },
+    {
+        "en": "117. This is terrific.",
+        "zh": " 这太棒了。"
+    },
+    {
+        "en": "118. That’s fantastic.",
+        "zh": " 那太棒了。"
+    },
+    {
+        "en": "119. Well, this is a nice surprise.",
+        "zh": " 噢，这是个惊喜。"
+    },
+    {
+        "en": "120. I’m delighted to see you.",
+        "zh": " 我很高兴见到你。"
+    },
+    {
+        "en": " 121. I suggest you start thinking about careers with animals.",
+        "zh": " 我建议你开始考虑与动物相关的职业。"
+    },
+    {
+        "en": " 12 My advice to you is to enjoy those things.",
+        "zh": " 我给你的建议就是去享受那些东西。"
+    },
+    {
+        "en": " 123. I’ll think about it.",
+        "zh": " 我会考虑的。"
+    },
+    {
+        "en": " 124 Can I give you some advice?",
+        "zh": " 我能给你一些建议吗？"
+    },
+    {
+        "en": " 125. What do you suggest?",
+        "zh": " 你有什么建议？"
+    },
+    {
+        "en": " 126. Can I give you some insights?",
+        "zh": " 我能给你一些建议吗？"
+    },
+    {
+        "en": "127. I suggest you do what he says.",
+        "zh": " 我建议你按照他说的去做。"
+    },
+    {
+        "en": "128. My advice would be to go home.",
+        "zh": " 我的建议就是回家。"
+    },
+    {
+        "en": "129. Is that your advice?",
+        "zh": " 那是你的建议吗？"
+    },
+    {
+        "en": "130. What would you do in my shoes?",
+        "zh": " 如果你处在我的位置，你会怎么做？"
+    },
+    {
+        "en": "131. I’d recommend that you try to relax.",
+        "zh": " 我建议你放松一下。"
+    },
+    {
+        "en": "132. May I make a suggestion?",
+        "zh": " 我能提个建议吗？"
+    },
+    {
+        "en": "133. What do you think I should do?",
+        "zh": " 你认为我该做什么？"
+    },
+    {
+        "en": "134. Let me give you a bit of advice.",
+        "zh": " 让我给你点建议."
+    },
+    {
+        "en": "135. What would be your advice?",
+        "zh": " 你的建议是什么？"
+    },
+    {
+        "en": "1 Congratulations.",
+        "zh": " 祝贺你。"
+    },
+    {
+        "en": "137. I’m sure you deserve it. ",
+        "zh": " 我相信这是你应得的。"
+    },
+    {
+        "en": "138 I’m sure you’ll do fine. ",
+        "zh": " 我相信你会做得很好。"
+    },
+    {
+        "en": "1 Good luck.",
+        "zh": " 祝你好运。"
+    },
+    {
+        "en": "140. I wish you the best.",
+        "zh": " 给你我最好的祝愿。"
+    },
+    {
+        "en": "141 That’s great.",
+        "zh": " 太好了。"
+    },
+    {
+        "en": "142 Outstanding.",
+        "zh": " 太棒了。"
+    },
+    {
+        "en": "143 Allow me to congratulate you.",
+        "zh": " 请允许我祝贺你。"
+    },
+    {
+        "en": "144. I wish you well.",
+        "zh": " 我祝福你。"
+    },
+    {
+        "en": "145. You have my best wishes.",
+        "zh": " 给你我最好的祝福。"
+    },
+    {
+        "en": "146. Good job.",
+        "zh": " 干得好。"
+    },
+    {
+        "en": "147 Please accept my warmest congratulations.",
+        "zh": " 请接受我最热诚的祝贺。"
+    },
+    {
+        "en": "148 I must congratulate you.",
+        "zh": " 我一定要祝贺你。"
+    },
+    {
+        "en": "149. I wish you nothing but the best.",
+        "zh": " 给你我最好的祝愿。"
+    },
+    {
+        "en": "150. I wish you good luck.",
+        "zh": " 祝你好运。"
+    },
+    {
+        "en": "151. I just want to get this mess straightened out.",
+        "zh": " 我想整理一下这乱糟糟的一团。"
+    },
+    {
+        "en": "152. I hate this weather.",
+        "zh": " 我讨厌这天气。"
+    },
+    {
+        "en": "153 It’s sucked.",
+        "zh": " 糟透了。"
+    },
+    {
+        "en": "154. I have had it up to here with this guy.",
+        "zh": " 我受够这个家伙了。"
+    },
+    {
+        "en": "15 I’ve got a real problem with one of my co-workers.",
+        "zh": " 我有个同事真让我受不了。"
+    },
+    {
+        "en": "156. This is awful.",
+        "zh": " 这太糟糕了。"
+    },
+    {
+        "en": "157. I can’t stand this.",
+        "zh": " 我忍受不了这个。"
+    },
+    {
+        "en": "158. I’m going to complain about this.",
+        "zh": " 我想对此进行抱怨。"
+    },
+    {
+        "en": "159. I’m fed up with your behavior.",
+        "zh": " 你的行为让我受够了。"
+    },
+    {
+        "en": "160. I’ve had it up to here with you.",
+        "zh": " 我受够你了。"
+    },
+    {
+        "en": "161. This is intolerable.",
+        "zh": " 这无法容忍。"
+    },
+    {
+        "en": "162. I will not accept this situation.",
+        "zh": " 我对此不能容忍。"
+    },
+    {
+        "en": "163. I will not stand for this.",
+        "zh": " 我对此无法容忍。"
+    },
+    {
+        "en": "164. I’m going to give him a piece of my mind.",
+        "zh": " 我将向他抱怨一番。"
+    },
+    {
+        "en": "165. I want to make a complaint.",
+        "zh": " 我想抱怨一番。"
+    },
+    {
+        "en": "166. Let’s get out of here.",
+        "zh": " 我们走吧。"
+    },
+    {
+        "en": "167. Do you want to come?",
+        "zh": " 你想来吗？"
+    },
+    {
+        "en": "168 Thanks for the invitation.",
+        "zh": " 感谢你的邀请。"
+    },
+    {
+        "en": "169. I was going to invite you in for some coffee.",
+        "zh": " 我想请你进来喝点咖啡。"
+    },
+    {
+        "en": "170. I’m like to invite you to a match.",
+        "zh": " 我想请你去看一场比赛。"
+    },
+    {
+        "en": "171. Do you want to get some lunch?",
+        "zh": " 你想吃午饭吗？"
+    },
+    {
+        "en": "172. Why don’t you come over later?",
+        "zh": " 你呆会儿过来怎么样？"
+    },
+    {
+        "en": "173. Are you free tonight?",
+        "zh": " 你今晚有空吗？"
+    },
+    {
+        "en": "174. What are you doing later?",
+        "zh": " 你呆会儿干什么？"
+    },
+    {
+        "en": "175. Let’s meet later.",
+        "zh": " 回头见。"
+    },
+    {
+        "en": "176. Come see me sometime.",
+        "zh": " 有空来看我。"
+    },
+    {
+        "en": "177. Give me a call the next time you’re in town. ",
+        "zh": " 你下次再来的时候给我打个电话。"
+    },
+    {
+        "en": "178. I’m like to see you again.",
+        "zh": " 我希望再见到你。"
+    },
+    {
+        "en": "179. Would you like to get dinner sometime?",
+        "zh": " 你想去吃晚饭吗？"
+    },
+    {
+        "en": "180. When can I see you again?",
+        "zh": " 我什么时候能再见到你？"
+    },
+    {
+        "en": "181. I keep asking her to turn down her music.",
+        "zh": " 我一直叫她把音乐关小声点。"
+    },
+    {
+        "en": "182. It’s a small request.",
+        "zh": " 这是个很小的请求。"
+    },
+    {
+        "en": "183. She has to turn it down.",
+        "zh": " 她必须关小些。"
+    },
+    {
+        "en": "184. I’m just requesting that you keep him in your yard.",
+        "zh": " 我只是要求你让他呆在你的院子里。"
+    },
+    {
+        "en": "185. I need to borrow your computer.",
+        "zh": " 我需要借用一下你的电脑。"
+    },
+    {
+        "en": "186. Can I see that book?",
+        "zh": " 我可以看看那本书吗？"
+    },
+    {
+        "en": "187. Could you move over a little bit?",
+        "zh": " 你能挪一下吗？"
+    },
+    {
+        "en": "188. You’re requested to be in court next week.",
+        "zh": " 要求你下星期到庭。"
+    },
+    {
+        "en": "189. My request for a raise was rejected.",
+        "zh": " 我加薪的请求被拒绝了。"
+    },
+    {
+        "en": "190. Can I make one small request?",
+        "zh": " 我能提一个小小的要求吗？"
+    },
+    {
+        "en": "191. That’s a pretty big request.",
+        "zh": " 那是个很大的请求。"
+    },
+    {
+        "en": "192. Why don’t you just request some help at work?",
+        "zh": " 你为什么不要求一些工作上的帮助呢？"
+    },
+    {
+        "en": "193. This is one of the most requested songs on the radio.",
+        "zh": " 这是收音机里点唱率最高的歌曲之一。"
+    },
+    {
+        "en": "194. Could you give me a hand with this box?",
+        "zh": " 你能帮我搬搬这箱子吗？"
+    },
+    {
+        "en": "195. Would you mind being a little bit quieter?",
+        "zh": " 你能安静一点吗？"
+    },
+    {
+        "en": "196. I’ll keep thinking about it.",
+        "zh": " 我会再考虑的。"
+    },
+    {
+        "en": "197. We may just have to share my car for a while.",
+        "zh": " 一段时间里，也许我们不得不共用我的车。"
+    },
+    {
+        "en": "198. We need to start a college fund for Tyler.",
+        "zh": " 我们必须为泰勒设立一个大学基金。"
+    },
+    {
+        "en": "199. Do you know what you’re doing after graduation?",
+        "zh": " 你知道你毕业后做什么吗？"
+    },
+    {
+        "en": "200. I haven’t made up my mind yet.",
+        "zh": " 我还没有决定。"
+    },
+    {
+        "en": "201. I’ll let you know what I decide.",
+        "zh": " 我会让你知道我的决定的。"
+    },
+    {
+        "en": "202. I have to make a difficult choice.",
+        "zh": " 我必须做一个艰难的选择。"
+    },
+    {
+        "en": "203. Decide quickly.",
+        "zh": " 迅速决定。"
+    },
+    {
+        "en": "204. I hadn’t anticipated that.",
+        "zh": " 我没有意料到那个。"
+    },
+    {
+        "en": "205. What do you plan to do about this mess?",
+        "zh": " 面对这一团糟，你打算怎么办?"
+    },
+    {
+        "en": "206. The disaster was a result of poor planning.",
+        "zh": " 这次灾难是由于计划不周导致的。"
+    },
+    {
+        "en": "207. I plan to take the next train out of here.",
+        "zh": " 我打算坐下一班火车离开这里。"
+    },
+    {
+        "en": "208. I intend to buy a new house.",
+        "zh": " 我打算买一套新房子。"
+    },
+    {
+        "en": "209. I had only the best intentions.",
+        "zh": " 我是出于好意。"
+    },
+    {
+        "en": "210. Everything is going according to plan.",
+        "zh": " 一切都照计划进行着。"
+    },
+    {
+        "en": "21 To be honest, I’m not certain.",
+        "zh": " 老实说，我不能肯定。"
+    },
+    {
+        "en": "212. Maybe.",
+        "zh": " 也许吧。"
+    },
+    {
+        "en": "213. I couldn’t say for sure.",
+        "zh": " 我不能肯定。"
+    },
+    {
+        "en": "214. I couldn’t say for definite.",
+        "zh": " 我没有百分之百的把握。"
+    },
+    {
+        "en": "215. I couldn’t say absolutely.",
+        "zh": " 我不能说是绝对的。"
+    },
+    {
+        "en": "216. I’m positive that he did it. ",
+        "zh": " 我肯定是他做的。"
+    },
+    {
+        "en": "217. I’m certain of it.",
+        "zh": " 我对此肯定。"
+    },
+    {
+        "en": "218. I’m not sure that’s a good idea.",
+        "zh": " 我不能肯定那是个好主意。"
+    },
+    {
+        "en": "219. I can’t be certain of what time I left the office.",
+        "zh": " 我不能肯定我是什么时候离开办公室的。"
+    },
+    {
+        "en": "220. I’ve no idea where my shoes are.",
+        "zh": " 我不知道我的鞋子在哪。"
+    },
+    {
+        "en": "221. I’m not certain if he’s telling the truth.",
+        "zh": " 我不能肯定他是否在说真话。"
+    },
+    {
+        "en": "222. Are you certain this is what you want to do? ",
+        "zh": " 你能肯定这是你想做的吗？"
+    },
+    {
+        "en": "223. I swear this is the truth.",
+        "zh": " 我发誓这是真的。"
+    },
+    {
+        "en": "224. I have no doubt about how I feel.",
+        "zh": " 我对我的感觉深信不移。"
+    },
+    {
+        "en": "225. Absolutely.",
+        "zh": " 绝对。"
+    },
+    {
+        "en": " 226. I don’t think our taxes get anything good for us.",
+        "zh": " 我认为税收对我们没有任何好处。"
+    },
+    {
+        "en": "227. I disagree completely.",
+        "zh": " 我完全不同意。"
+    },
+    {
+        "en": "228. Maybe you’re right.",
+        "zh": " 也许你是对的。"
+    },
+    {
+        "en": "229. I think that’s a good idea. ",
+        "zh": " 我想那是个好主意。"
+    },
+    {
+        "en": "230. I’m glad we see eye to eye.",
+        "zh": " 很高兴我们的看法一致。"
+    },
+    {
+        "en": "231. I couldn’t agree with you more.",
+        "zh": " 我非常同意你的看法。"
+    },
+    {
+        "en": "232. I have to disagree with you on this.",
+        "zh": " 在这件事情上我不同意你的看法。"
+    },
+    {
+        "en": "233. That’s what I was thinking.",
+        "zh": " 那就是我的想法。"
+    },
+    {
+        "en": "234. You are exactly right.",
+        "zh": " 你对极了。"
+    },
+    {
+        "en": "235. That’s for sure.",
+        "zh": " 那是肯定的。"
+    },
+    {
+        "en": "236. I’m say that was true.",
+        "zh": " 我肯定那是对的。"
+    },
+    {
+        "en": "237. Don’t you agree?",
+        "zh": " 难道你不同意吗？"
+    },
+    {
+        "en": "238. I’ll go along with that.",
+        "zh": " 我同意那一点。"
+    },
+    {
+        "en": "239. I’ll go along with you on this one.",
+        "zh": " 在这一点上我同意你的看法。"
+    },
+    {
+        "en": "240. I’m not sure I agree with you.",
+        "zh": " 我不能肯定我同意你的意见。"
+    },
+    {
+        "en": "241. Do your kids still believe in Santa Claus?",
+        "zh": " 你的孩子还相信有圣诞老人吗？"
+    },
+    {
+        "en": "242. How come you never believe me?",
+        "zh": " 你怎么从来都不相信我？"
+    },
+    {
+        "en": "243. I’m sure he’ll find a way to do that without more taxes. ",
+        "zh": " 我确信他会找到一种无需交更多税收去做那件事的方法。"
+    },
+    {
+        "en": "244. I can’t believe it.",
+        "zh": " 我简直不能相信。"
+    },
+    {
+        "en": "245. They believed that certain gods caused things in nature.",
+        "zh": " 他们相信自然界的事物是由某些神引起的。"
+    },
+    {
+        "en": "246. I have faith in the government.",
+        "zh": " 我对政府有信心。"
+    },
+    {
+        "en": "247. I believe that I can do anything if I try hard enough.",
+        "zh": " 我相信如果我足够尽力去做的话，我能做任何事情。"
+    },
+    {
+        "en": "248. I don’t believe you.",
+        "zh": " 我不相信你。"
+    },
+    {
+        "en": "249. Do you believe in anything?",
+        "zh": " 你有什么信仰吗？"
+    },
+    {
+        "en": "250. I have no choice but to believe what you’re saying.",
+        "zh": " 我除了相信你的话，别无选择。"
+    },
+    {
+        "en": "251. Have you questioned your beliefs?",
+        "zh": " 你对你的信仰质疑过吗？"
+    },
+    {
+        "en": "252. I can’t believe you’ve said that.",
+        "zh": " 我不能相信你竟说出那样的话。"
+    },
+    {
+        "en": "253. I’m convinced by his words. ",
+        "zh": " 我被他的话说服了。"
+    },
+    {
+        "en": "254. I believe he can be trusted.",
+        "zh": " 我相信他是可信的。"
+    },
+    {
+        "en": "255. I’ll take your word for it.",
+        "zh": " 我相信你。"
+    },
+    {
+        "en": "256. You did a good job.",
+        "zh": " 你干得漂亮。"
+    },
+    {
+        "en": "257. Most of that was luck.",
+        "zh": " 那大部分靠运气。"
+    },
+    {
+        "en": "258. You have really good taste.",
+        "zh": " 你真的很有品位。"
+    },
+    {
+        "en": "259. I am so jealous of you. ",
+        "zh": " 我真羡慕你。"
+    },
+    {
+        "en": "260 That’s a nice car you have there.",
+        "zh": " 你那辆车真漂亮。"
+    },
+    {
+        "en": "261. You’re looking good.",
+        "zh": " 你看起来很不错。"
+    },
+    {
+        "en": "262. That shirt really becomes you.",
+        "zh": " 那件衬衫真的很适合你。"
+    },
+    {
+        "en": "263. You have excellent manners.",
+        "zh": " 你很有风度。"
+    },
+    {
+        "en": "264. I salute your efforts.",
+        "zh": " 我对你的努力表示敬佩。"
+    },
+    {
+        "en": "265. You’re the best in the business.",
+        "zh": " 你是这行业里最好的。"
+    },
+    {
+        "en": "266. You’re the envy of the town. ",
+        "zh": " 你是众人羡慕的焦点。"
+    },
+    {
+        "en": "267. You look good in red.",
+        "zh": " 你穿红色很好看。"
+    },
+    {
+        "en": "268. You’ve done a good job with this house.",
+        "zh": " 这房子你布置得不错。"
+    },
+    {
+        "en": "269. Keep up the good work.",
+        "zh": " 干得好，保持下去。"
+    },
+    {
+        "en": "270. I love the way you make me laugh.",
+        "zh": " 我喜欢你逗我笑。"
+    },
+    {
+        "en": "271. Don’t worry about it.",
+        "zh": " 别担心。"
+    },
+    {
+        "en": "272. That’s what counts.",
+        "zh": " 那才是重要的。"
+    },
+    {
+        "en": "273. That makes me feel a little better. ",
+        "zh": " 那使我感觉稍微好些。"
+    },
+    {
+        "en": "274. Look at the bright side.",
+        "zh": " 看看光明的一面。"
+    },
+    {
+        "en": "275. That’s understandable.",
+        "zh": " 那可以理解。"
+    },
+    {
+        "en": "276. Don’t let it get you down.",
+        "zh": " 别为此气馁。"
+    },
+    {
+        "en": "277. Things will get better.",
+        "zh": " 事情会好转的。"
+    },
+    {
+        "en": "278. Just keep trying.",
+        "zh": " 继续尝试/别就此放弃。"
+    },
+    {
+        "en": "279. Don’t give up.",
+        "zh": " 别放弃。"
+    },
+    {
+        "en": "280. We all have bad days sometimes.",
+        "zh": " 我们都会有不顺利的时候。"
+    },
+    {
+        "en": "281. I know how you feel.",
+        "zh": " 我知道你的感受。"
+    },
+    {
+        "en": "282. I’m here for you.",
+        "zh": " 有什么要帮忙的，我就在你身边。"
+    },
+    {
+        "en": "283. It’s okay.",
+        "zh": " 没问题。"
+    },
+    {
+        "en": "284. It’s not your fault.",
+        "zh": " 不是你的错。"
+    },
+    {
+        "en": "285. No one blames you.",
+        "zh": " 没有人责怪你。"
+    },
+    {
+        "en": "286. There’s a sign outside the gate that reads “NO TRESPASSING”.",
+        "zh": " 门外有牌子，上面写着“禁止入内”。"
+    },
+    {
+        "en": "287. Not here.",
+        "zh": " 在这不行。"
+    },
+    {
+        "en": "288. I don’t think you should do that.",
+        "zh": " 我认为你不应该那样做。"
+    },
+    {
+        "en": "289. They can’t stop me from smoking. ",
+        "zh": " 他们不能阻止我抽烟。"
+    },
+    {
+        "en": "290. You can’t go there.",
+        "zh": " 你不能去那儿。"
+    },
+    {
+        "en": "291. That’s forbidden.",
+        "zh": " 那是被禁止的。"
+    },
+    {
+        "en": "292. I’m warning you.",
+        "zh": " 我在警告你。"
+    },
+    {
+        "en": "293. No one is allowed to go in there.",
+        "zh": " 谁也不允许进那儿。"
+    },
+    {
+        "en": "294. It is forbidden to do that.",
+        "zh": " 不允许那样做。"
+    },
+    {
+        "en": "295. NO SMOKING",
+        "zh": " 禁止吸烟"
+    },
+    {
+        "en": "296. DO NOT ENTER",
+        "zh": " 禁止入内"
+    },
+    {
+        "en": "29 NO UNAUTHORIZED ENTRY",
+        "zh": " 未经许可不得入内"
+    },
+    {
+        "en": " DO NOT WALK ON THE GRASS",
+        "zh": " 请勿践踏草地"
+    },
+    {
+        "en": "299. KEEP OUT",
+        "zh": " 不得入内"
+    },
+    {
+        "en": "300. NO PETS ALLOWED",
+        "zh": " 宠物不得入内"
+    },
+    {
+        "en": "301. What do you think of the new boss?",
+        "zh": " 你认为新老板怎么样？"
+    },
+    {
+        "en": "302. Do you mean Mr. Li?",
+        "zh": " 你是说李先生吗？"
+    },
+    {
+        "en": "303. Some people don’t listen to him.",
+        "zh": " 有些人不听他的话。"
+    },
+    {
+        "en": "304. Don’t get me wrong.",
+        "zh": " 别误解我的意思。"
+    },
+    {
+        "en": "305. He seems like a pretty nice guy.",
+        "zh": " 他看起来是个好人。"
+    },
+    {
+        "en": "306. His uncle is very unusual.",
+        "zh": " 他的叔叔很不同寻常。"
+    },
+    {
+        "en": "307 My co-worker is too loud.",
+        "zh": " 我的同事嗓门太大了。"
+    },
+    {
+        "en": "308 The new girl doesn’t do any work.",
+        "zh": " 那个新来的女孩什么工作也不做。"
+    },
+    {
+        "en": "309 His parents are too strict on him.",
+        "zh": " 他的父母对他很严格。"
+    },
+    {
+        "en": "310 My brother is always in trouble at school.",
+        "zh": " 我的弟弟总是在学校惹祸。"
+    },
+    {
+        "en": "311. John is the best player we have.",
+        "zh": " 约翰是我们最好的队员。"
+    },
+    {
+        "en": "312. Harold comes from Canada.",
+        "zh": " 哈罗德来自加拿大。"
+    },
+    {
+        "en": "313. Luke has a very excitable nature.",
+        "zh": " 卢克生性易激动。"
+    },
+    {
+        "en": "314. Paul thinks driving too fast is exciting.",
+        "zh": " 保罗认为开快车很令人兴奋。"
+    },
+    {
+        "en": "315. Sally doesn’t like spicy foods.",
+        "zh": " 莎丽不喜欢辛辣的食物。"
+    },
+    {
+        "en": "316. The living room is large enough for a good number of people.",
+        "zh": " 起居室足够大，可以容纳很多人。"
+    },
+    {
+        "en": "317. The only problem is that it has carpet from wall to wall.",
+        "zh": " 唯一的问题是，它的地毯和墙壁相联。"
+    },
+    {
+        "en": "318. That seems clumsy.",
+        "zh": " 那看起来很笨拙。"
+    },
+    {
+        "en": "319. It looks kind of light.",
+        "zh": " 看起来很轻。"
+    },
+    {
+        "en": "320. It’s not heavy.",
+        "zh": " 不重。"
+    },
+    {
+        "en": "321. The keys on the keyboard sometimes get stuck.",
+        "zh": " 键盘上的按键有时会卡住。"
+    },
+    {
+        "en": "322. The open windows give the room more light.",
+        "zh": " 开着的窗户让房间更加明亮。"
+    },
+    {
+        "en": "323. The walls are too dark.",
+        "zh": " 墙的颜色太暗了。"
+    },
+    {
+        "en": "324. The floor is very clean.",
+        "zh": " 地板很干净。"
+    },
+    {
+        "en": "32 This table is not stable.",
+        "zh": " 这桌子不稳。"
+    },
+    {
+        "en": "326. There are stains on my new shirt.",
+        "zh": " 我的新衬衫上有污渍。"
+    },
+    {
+        "en": "327. I bought this toy in Beijing. ",
+        "zh": " 这玩具是我在北京买的。"
+    },
+    {
+        "en": "328. This book is written in French.",
+        "zh": " 这本书是用法语写的。"
+    },
+    {
+        "en": "329. I have to fix my sink in the kitchen.",
+        "zh": " 我必须修理厨房的水槽。"
+    },
+    {
+        "en": "330. My bicycle has a flat tire.",
+        "zh": " 我的自行车有一个胎爆了。"
+    },
+    {
+        "en": "331. It’s Janet Abrams.",
+        "zh": " 我是詹尼特•阿伯拉汗。"
+    },
+    {
+        "en": "332. I’m Tom Dickens. ",
+        "zh": " 我是汤姆•迪更斯。"
+    },
+    {
+        "en": "333. What’s your name?",
+        "zh": " 你叫什么名字？"
+    },
+    {
+        "en": "334. And how old are you, Mr. Fowler?",
+        "zh": " 您多少岁了，富勒先生？"
+    },
+    {
+        "en": "335. I’m 38.",
+        "zh": " 我三十八岁了。"
+    },
+    {
+        "en": "336. I’ll be 29 in May.",
+        "zh": " 我五月份就二十九岁了。"
+    },
+    {
+        "en": "337. I’m going on 40 next month.",
+        "zh": " 我下个月满四十岁。"
+    },
+    {
+        "en": "338. I didn’t catch your name.",
+        "zh": " 我没听清你的名字。"
+    },
+    {
+        "en": "339. How old did you say you were?",
+        "zh": " 你说你多大了？"
+    },
+    {
+        "en": "340. People call me Tom.",
+        "zh": " 人们叫我汤姆。"
+    },
+    {
+        "en": "341. When did you finish college?",
+        "zh": " 你什么时候读完大学的？"
+    },
+    {
+        "en": "342. What did you say your name was?",
+        "zh": " 你说你叫什么名字？"
+    },
+    {
+        "en": "343. Do you go by your first name at work? ",
+        "zh": " 在工作中，你是使用你的名吗？"
+    },
+    {
+        "en": "344. My name means “joy” in Spanish.",
+        "zh": " 我的名字在西班牙语中的意思是“快乐”。"
+    },
+    {
+        "en": "345. I’m named after my grandfather.",
+        "zh": " 我的名字是跟着我祖父取的。"
+    },
+    {
+        "en": "346. Where are you from?",
+        "zh": " 你从哪里来？"
+    },
+    {
+        "en": "347. I’m from Pittsburgh.",
+        "zh": " 我来自匹茨堡。"
+    },
+    {
+        "en": "348. I’m Russian.",
+        "zh": " 我是俄国人。"
+    },
+    {
+        "en": "349. Why are you in the U.S.?",
+        "zh": " 你为什么在美国？"
+    },
+    {
+        "en": "350. When did you get to this country?",
+        "zh": " 你什么时候来这个国家的？"
+    },
+    {
+        "en": "351. You look Spanish.",
+        "zh": " 你看起来像西班牙人。"
+    },
+    {
+        "en": "352. Were you born in America?",
+        "zh": " 你是在美国出生的吗？"
+    },
+    {
+        "en": "353. My parents came to this country before I was born. ",
+        "zh": " 在我出生前我父母就来到了这个国家。"
+    },
+    {
+        "en": "354. What nationality are you?",
+        "zh": " 你是什么国籍？"
+    },
+    {
+        "en": "355. Are you a citizen or a resident of this country?",
+        "zh": " 你是这个国家的公民还是居民？"
+    },
+    {
+        "en": "356. How long have you been here?",
+        "zh": " 你在这里多久了？"
+    },
+    {
+        "en": "357. I just came back from Korea.",
+        "zh": " 我刚从韩国回来。"
+    },
+    {
+        "en": "358. My ancestors came here from Ireland.",
+        "zh": " 我的祖先从爱尔兰来到这里。"
+    },
+    {
+        "en": "359. My girlfriend is from Mexico.",
+        "zh": " 我的女朋友来自墨西哥。"
+    },
+    {
+        "en": "360. I was born in England.",
+        "zh": " 我出生在英格兰。"
+    },
+    {
+        "en": "361. What time is it?",
+        "zh": " 什么时间了？"
+    },
+    {
+        "en": "362. It’s about half past 3.",
+        "zh": " 大约三点半了。"
+    },
+    {
+        "en": "363. What time will you be back by?",
+        "zh": " 你到什么时候回来？"
+    },
+    {
+        "en": "364. My last class is over at 3:30.",
+        "zh": " 我最后一节课是在三点半结束。"
+    },
+    {
+        "en": "365. I’m going out for a few hours.",
+        "zh": " 我要出去几个小时。"
+    },
+    {
+        "en": "366. What time do you have?",
+        "zh": " 你知道现在几点了吗？"
+    },
+    {
+        "en": "367. It’s time to leave.",
+        "zh": " 该走了。"
+    },
+    {
+        "en": "368. It’s almost time to go home.",
+        "zh": " 差不多该回家了。"
+    },
+    {
+        "en": "369. We only have an hour of work left.",
+        "zh": " 我们只剩下一个小时的工作了。"
+    },
+    {
+        "en": "370. I’ve been waiting here for three hours.",
+        "zh": " 我在这等了三个小时。"
+    },
+    {
+        "en": "371. Time goes by fast when you’re having fun.",
+        "zh": " 当你开心的时候，时间过得很快。"
+    },
+    {
+        "en": "372. It’s a quarter past eleven.",
+        "zh": " 现在是十一点一刻了。"
+    },
+    {
+        "en": "373. It’s fifteen minutes to nine.",
+        "zh": " 现在是九点差一刻。"
+    },
+    {
+        "en": "374. The game starts at nine in the morning.",
+        "zh": " 比赛早上九点开始。"
+    },
+    {
+        "en": "375. The office opens at 8 a.m.",
+        "zh": " 办公室早上8点钟开门。"
+    },
+    {
+        "en": "376. When was the Declaration of Independence?",
+        "zh": " 《独立宣言》是什么时候宣布的？"
+    },
+    {
+        "en": "377. Our spring break is from April 2 to April 16.",
+        "zh": " 我们的春假是从四月二号到四月十六号。"
+    },
+    {
+        "en": "378. What’s tomorrow’s date?",
+        "zh": " 明天是几号？"
+    },
+    {
+        "en": "379. Tomorrow is November 25.",
+        "zh": " 明天是十一月二十五号。"
+    },
+    {
+        "en": "380. The convention starts on the 24th of March.",
+        "zh": " 公约于三月二十四日生效。"
+    },
+    {
+        "en": "381. I have to complete my taxes by April 15th. ",
+        "zh": " 我必须在四月十五日之前交清税。"
+    },
+    {
+        "en": "382. Rent is due by the first of every month.",
+        "zh": " 房租在每月的一号交。"
+    },
+    {
+        "en": "383. School starts on the 23rd.",
+        "zh": " 学校二十三号开学。"
+    },
+    {
+        "en": "384. We have 3 days left until the 4th of July.",
+        "zh": " 到七月四号，我们还剩下三天。"
+    },
+    {
+        "en": "385. Is the 30th on a Monday?",
+        "zh": " 三十号是星期一吗？"
+    },
+    {
+        "en": "386. This office will be closed for the holidays.",
+        "zh": " 这办公室节假日关门。"
+    },
+    {
+        "en": "387. The last game will be on the 9th of March.",
+        "zh": " 最后一场比赛将于三月九号举行。"
+    },
+    {
+        "en": "388. My birthday is on May 19th.",
+        "zh": " 我的生日在五月十九号。"
+    },
+    {
+        "en": "389. I have to finish this essay by next Tuesday. ",
+        "zh": " 我必须在下星期二之前完成这论文。"
+    },
+    {
+        "en": "390. I leave for Germany⑾ on the 11th of next month. ",
+        "zh": " 我下个月十一号去德国。"
+    },
+    {
+        "en": "391. It’s good weather for football.",
+        "zh": " 是踢足球的好天气。"
+    },
+    {
+        "en": "392. It’s very crisp and cool.",
+        "zh": " 天气很干爽。"
+    },
+    {
+        "en": "393. It’s going to get cold fast.",
+        "zh": " 天气很快会变冷的。"
+    },
+    {
+        "en": "394. This spring there is supposed to be a cold spell. ",
+        "zh": " 据推测那儿今年的春天会很冷。"
+    },
+    {
+        "en": "395. We had a lot of rain this winter though.",
+        "zh": " 但是我们今年冬天下了很多雨。"
+    },
+    {
+        "en": "396. It’s blazing hot outside.",
+        "zh": " 外面很炽热。"
+    },
+    {
+        "en": "397. With all this moisture, it feels very muggy outside. ",
+        "zh": " 由于湿气很重，外面很闷热。"
+    },
+    {
+        "en": "398. It’s raining pretty hard right now.",
+        "zh": " 现在雨下得很大。"
+    },
+    {
+        "en": "399. It’s starting to snow outside.",
+        "zh": " 外面开始下雪了。"
+    },
+    {
+        "en": "400.4 Some of the streets are almost flooded with rain.",
+        "zh": " 有些街道几乎被雨水淹了。"
+    },
+    {
+        "en": "401. It’s freezing outside.",
+        "zh": " 外面很冻。"
+    },
+    {
+        "en": "402. It’s a little bit chilly out.",
+        "zh": " 外面有点寒冷。"
+    },
+    {
+        "en": "403. The air is warm, but there’s a nice breeze.",
+        "zh": " 空气很热，但是有怡人的微风。"
+    },
+    {
+        "en": "404. This morning is cooler than expected.",
+        "zh": " 今天早上比预计的要凉快。"
+    },
+    {
+        "en": "405. It will get warmer as the day goes by.",
+        "zh": " 天气会越来越暖和的。"
+    },
+    {
+        "en": "406. Do you need my help?",
+        "zh": " 你需要我的帮助吗？"
+    },
+    {
+        "en": "407. I was hoping you could help.",
+        "zh": " 我希望你能帮我。"
+    },
+    {
+        "en": "408. Could you loan them to me?",
+        "zh": " 你能把它们借给我吗？"
+    },
+    {
+        "en": "409. I appreciate this very much.",
+        "zh": " 我对此万分感谢。"
+    },
+    {
+        "en": "410. I’m just glad to be of assistance.",
+        "zh": " 我很乐意帮助你。"
+    },
+    {
+        "en": "411. Is there something I can do?",
+        "zh": " 我能帮什么忙吗？"
+    },
+    {
+        "en": "412. How can I help you?",
+        "zh": " 我能帮忙吗？"
+    },
+    {
+        "en": "413. I could use some help here.",
+        "zh": " 我这里需要一些帮助。"
+    },
+    {
+        "en": "414. What can I help you with?",
+        "zh": " 我能帮您什么忙？"
+    },
+    {
+        "en": "415. Can I be of any assistance? ",
+        "zh": " 我能帮什么忙吗？"
+    },
+    {
+        "en": "416. I don’t need any help.",
+        "zh": " 我不需要任何帮助。"
+    },
+    {
+        "en": "417. Help me, please.",
+        "zh": " 请帮帮我。"
+    },
+    {
+        "en": "418. Could you lend me a hand?",
+        "zh": " 你能帮个忙吗？"
+    },
+    {
+        "en": "419. That would be very helpful.",
+        "zh": " 那很有帮助。"
+    },
+    {
+        "en": "420. Your help would be appreciated.",
+        "zh": " 非常感谢你的帮助。"
+    },
+    {
+        "en": "421. I’m looking for 524 Maryland Avenue.",
+        "zh": " 我在找马里兰大街524号。"
+    },
+    {
+        "en": "422. It’s about one mile over that way.",
+        "zh": " 顺着那条路，大约有一英里。"
+    },
+    {
+        "en": "423. Could you tell me how to get there?",
+        "zh": " 你能告诉我如何到那儿吗？"
+    },
+    {
+        "en": "424. For how long should I walk?",
+        "zh": " 我要走多久？"
+    },
+    {
+        "en": "425. Then you take a right on Fulton.",
+        "zh": " 然后你在富顿大街往右拐。"
+    },
+    {
+        "en": "426. What’s the fastest way to Belton Street?",
+        "zh": " 到贝尔顿大街走哪条路最快？"
+    },
+    {
+        "en": "427. Do you know how to get to the stadium?",
+        "zh": " 你知道怎么去体育馆吗？"
+    },
+    {
+        "en": "428. Is there a road with less traffic on it?",
+        "zh": " 有没有交通稀疏一点的路？"
+    },
+    {
+        "en": "429. My house is two doors down from the Post Office.",
+        "zh": " 过了邮局再走两家就是我家了。"
+    },
+    {
+        "en": "430. The bus station will be on your left.",
+        "zh": " 汽车站在你的左手边。"
+    },
+    {
+        "en": "431. Which way is north?",
+        "zh": " 哪边是北？"
+    },
+    {
+        "en": "432. Is this the way to the police station?",
+        "zh": " 这是去警察局的路吗？"
+    },
+    {
+        "en": "433. What street is this?",
+        "zh": " 这是哪条街？"
+    },
+    {
+        "en": "434. Do you know where the zoo is?",
+        "zh": " 你知道动物园在哪儿吗？"
+    },
+    {
+        "en": "435. Is this the east gate of the park?",
+        "zh": " 这是公园的东门吗？"
+    },
+    {
+        "en": "436. I hate driving to work this way.",
+        "zh": " 我讨厌这样开车去上班。"
+    },
+    {
+        "en": "437. I’m sick of it.",
+        "zh": " 对此我很讨厌。"
+    },
+    {
+        "en": "438. It should be banned.",
+        "zh": " 它应该被禁止。"
+    },
+    {
+        "en": "439. I am not happy with our new boss.",
+        "zh": " 我不喜欢我们的新老板。"
+    },
+    {
+        "en": "440. I don’t think schools are as good as they used to be.",
+        "zh": " 我认为现在的学校不如以前好了。"
+    },
+    {
+        "en": "441. I think we need a new president.",
+        "zh": " 我认为我们需要一位新总裁。"
+    },
+    {
+        "en": "442. Bob isn’t doing a good job.",
+        "zh": " 鲍勃的工作做得不好。"
+    },
+    {
+        "en": "443. I’m happy with the new mayor.",
+        "zh": " 我喜欢这位新市长。"
+    },
+    {
+        "en": "444. The bus driver seems lost. ",
+        "zh": " 这位公共汽车司机好像是迷路了。"
+    },
+    {
+        "en": "445. My mother talks too much.",
+        "zh": " 我的母亲太爱说话了。"
+    },
+    {
+        "en": "446. I have a lot of respect for my grandfather.",
+        "zh": " 我很尊敬我的祖父。"
+    },
+    {
+        "en": "447. I love watching sports on TV.",
+        "zh": " 我喜欢看电视上的体育节目。"
+    },
+    {
+        "en": "448. I don’t like big cities very much.",
+        "zh": " 我不太喜欢大城市。"
+    },
+    {
+        "en": "449. My girlfriend is beautiful.",
+        "zh": " 我的女朋友很漂亮。"
+    },
+    {
+        "en": "450. I think we should take a break.",
+        "zh": " 我认为我们应该休息一下。"
+    },
+    {
+        "en": "451. Thank you for calling Joe’s Pizza.",
+        "zh": " 感谢您打电话到乔氏比萨店。"
+    },
+    {
+        "en": "452. Hello?",
+        "zh": " 喂？"
+    },
+    {
+        "en": "453. Is that Ivy?",
+        "zh": " 是艾维吗？ "
+    },
+    {
+        "en": "454. This is Professor Smith.",
+        "zh": " 我是史密斯教授。"
+    },
+    {
+        "en": "455. I’ll call you tomorrow.",
+        "zh": " 我明天给你打电话。"
+    },
+    {
+        "en": "456. To who am I speaking? ",
+        "zh": " 请问你是哪位？"
+    },
+    {
+        "en": "457. Who am I talking to?",
+        "zh": " 请问你是哪位？"
+    },
+    {
+        "en": "458. How can I direct your call?",
+        "zh": " 要我把您的电话转给谁？"
+    },
+    {
+        "en": "459. You’ve got the wrong number.",
+        "zh": " 你打错电话了。"
+    },
+    {
+        "en": "460. What number is this?",
+        "zh": " 这是什么号码？"
+    },
+    {
+        "en": "461. Who do you want to talk to?",
+        "zh": " 你想和谁通话？"
+    },
+    {
+        "en": "462. He isn’t here right now.",
+        "zh": " 他现在不在这儿。"
+    },
+    {
+        "en": "463. Can I have him call you back?",
+        "zh": " 让我叫他给你回电话吗？"
+    },
+    {
+        "en": "464. Can I call you back later?",
+        "zh": " 我呆会儿再打给你好吗？"
+    },
+    {
+        "en": "465. What number can I reach you at?",
+        "zh": " 我打什么号码能找到你？"
+    },
+    {
+        "en": "466. I need to make an appointment .",
+        "zh": " 我需要来一个预约。"
+    },
+    {
+        "en": " 467. How about sometime next week?",
+        "zh": " 下个星期怎么样？"
+    },
+    {
+        "en": "468. That should be fine.",
+        "zh": " 可以。"
+    },
+    {
+        "en": "469. I’ll set it up.",
+        "zh": " 我会搞定的。"
+    },
+    {
+        "en": "470. I wanted to set up a time to meet with you. ",
+        "zh": " 我想约个时间和你见面。"
+    },
+    {
+        "en": "471. When would be a good time to get together?",
+        "zh": " 什么时间聚会合适？"
+    },
+    {
+        "en": "472. Are you free later this week?",
+        "zh": " 这个星期的后几天你有空吗？"
+    },
+    {
+        "en": "473. When can I talk to you?",
+        "zh": " 我什么时候能和你谈谈？"
+    },
+    {
+        "en": "474. What are you doing next Thursday?",
+        "zh": " 下个星期四你干什么？"
+    },
+    {
+        "en": "475. Do you want to talk about this some other time?",
+        "zh": " 你想什么时候再谈谈这个吗？"
+    },
+    {
+        "en": "476. I want to make a reservation for next Friday.",
+        "zh": " 我想预定下个星期五的（房间等）。"
+    },
+    {
+        "en": "477. I can come in tomorrow.",
+        "zh": " 我可以明天来。"
+    },
+    {
+        "en": "478. Can you come in the afternoon?",
+        "zh": " 你今天下午能来吗？"
+    },
+    {
+        "en": "479. Do you have any time available this week?",
+        "zh": " 这个星期你什么时候有空吗？"
+    },
+    {
+        "en": "480. When is your next opening?",
+        "zh": " 你下一次什么时候有空？"
+    },
+    {
+        "en": "481. Where are you going?",
+        "zh": " 你要去哪？"
+    },
+    {
+        "en": "482. What are you doing now?",
+        "zh": " 你现在在干什么？"
+    },
+    {
+        "en": "483. I don’t have to shave every day.",
+        "zh": " 我不必每天都刮面。"
+    },
+    {
+        "en": "484. I usually take too long eating breakfast.",
+        "zh": " 我通常早餐吃很长时间。"
+    },
+    {
+        "en": "485. If I don’t eat breakfast, then I don’t have enough energy during the day.",
+        "zh": " 如果我不吃早餐的话，我就一天都没有足够的能量。"
+    },
+    {
+        "en": "486. I’ve got to go brush my teeth.",
+        "zh": " 我得去刷牙了。"
+    },
+    {
+        "en": "487. I don’t have time to take a shower now.",
+        "zh": " 我现在没有时间冲凉。"
+    },
+    {
+        "en": "488. I never have time for lunch at work.",
+        "zh": " 我上班时从来都没有时间吃午饭。"
+    },
+    {
+        "en": "489. Everyday I have to drive 40 minutes to work.",
+        "zh": " 我每天必须开车四十分钟去上班。"
+    },
+    {
+        "en": "490. Did the mail come today?",
+        "zh": " 邮件今天到了吗？"
+    },
+    {
+        "en": "491. Have you seen today’s paper?",
+        "zh": " 你看了今天的报纸吗？"
+    },
+    {
+        "en": "492. I watch the news every night.",
+        "zh": " 我每天晚上都看新闻。"
+    },
+    {
+        "en": "493. I like to exercise in the morning.",
+        "zh": " 我喜欢早上锻炼。"
+    },
+    {
+        "en": "494. Most nights I just go out to eat.",
+        "zh": " 大部分的晚上我在外面吃饭。"
+    },
+    {
+        "en": "495. Did you take the dog for a walk?",
+        "zh": " 你遛狗了吗？"
+    },
+    {
+        "en": "496. It kind of reminds me of that trip we took with Mom and Dad to Canada.",
+        "zh": " 这有点让我想起了我们和爸爸妈妈去加拿大的那次旅行。"
+    },
+    {
+        "en": "497. I don’t remember how cold it was though.",
+        "zh": " 但是我记不起来有多冷了。"
+    },
+    {
+        "en": "498. Where exactly did we go in Canada?",
+        "zh": " 我们去了加拿大的哪儿？"
+    },
+    {
+        "en": "499. How could I possibly forget?",
+        "zh": " 我怎么可能忘记呢？"
+    },
+    {
+        "en": "500. I didn’t run out of money.",
+        "zh": " 我没有花光钱。"
+    },
+    {
+        "en": "501. I used to like surfing.",
+        "zh": " 我以前喜欢冲浪。"
+    },
+    {
+        "en": "502. I once had a fever for almost a week.",
+        "zh": " 我有一次发了近一个星期的高烧。"
+    },
+    {
+        "en": "503. I broke my leg skiing five years ago.",
+        "zh": " 五年前我滑雪的时候摔断了腿。"
+    },
+    {
+        "en": "504. This reminds me of my trip to France.",
+        "zh": " 这让我想起了我的法国之旅。"
+    },
+    {
+        "en": "505. I’ve only been on an airplane once.",
+        "zh": " 我只坐过一次飞机。"
+    },
+    {
+        "en": "506. I used to live in Mexico.",
+        "zh": " 我以前住在墨西哥。"
+    },
+    {
+        "en": "507. I got in a car accident last year.",
+        "zh": " 我去年出了车祸。"
+    },
+    {
+        "en": "508. My dog saved my life one time.",
+        "zh": " 我的狗救过我一次命。"
+    },
+    {
+        "en": "509. I spent 3 years in the army.",
+        "zh": " 我在部队呆过三年。"
+    },
+    {
+        "en": "510. I loved to go fishing with my dad.",
+        "zh": " 我喜欢和我爸爸一起去钓鱼。"
+    },
+    {
+        "en": " I think we’re going to save some extra money this year.",
+        "zh": " 我想我们今年会多存些钱。"
+    },
+    {
+        "en": "512. What language are you going to study?",
+        "zh": " 你要学什么语言？"
+    },
+    {
+        "en": "513. Then don’t complain to me when Spanish gets boring.",
+        "zh": " 当你觉得西班牙语令你厌烦的时候，别向我诉苦。"
+    },
+    {
+        "en": "514. What are you doing later this week?",
+        "zh": " 这个星期的后几天你打算干什么？"
+    },
+    {
+        "en": "515. Are you still planning to go to medical school?",
+        "zh": " 你还在打算去医学院吗？"
+    },
+    {
+        "en": "516. I want to buy a dog.",
+        "zh": " 我想买一条狗。"
+    },
+    {
+        "en": "517. I’m going to switch job soon.",
+        "zh": " 我很快要跳槽了。"
+    },
+    {
+        "en": "518. We’re like to send our daughter to a private school.",
+        "zh": " 我们想把我们的女儿送到私立学校去。"
+    },
+    {
+        "en": "519. I hope to get good grades this year.",
+        "zh": " 我希望今年能取得好成绩。"
+    },
+    {
+        "en": "520. I will be moving in six months.",
+        "zh": " 我六个月后搬家。"
+    },
+    {
+        "en": "521. I’m going to study Chinese next year.",
+        "zh": " 我明年要学汉语。"
+    },
+    {
+        "en": "522. I want to work for my dad’s company.",
+        "zh": " 我想为我爸爸的公司工作。"
+    },
+    {
+        "en": "523. My parents are going on vacationnext month.",
+        "zh": " 我的父母下个月去度假。"
+    },
+    {
+        "en": "524. In two years I will finish medical school.",
+        "zh": " 两年后我就要从医学院毕业了。"
+    },
+    {
+        "en": "525. My wife wants to buy a new car.",
+        "zh": " 我妻子想买一辆新车。"
+    },
+    {
+        "en": "526. How’s your biology class going?",
+        "zh": " 你的生物课怎么样了？"
+    },
+    {
+        "en": "527. It’s interesting, but there’s so much work.",
+        "zh": " 很有趣，但是作业太多了。"
+    },
+    {
+        "en": "528. It’s just my opinion, but I think that’s pretty boring.",
+        "zh": " 这只是我的看法，我认为那很枯燥。"
+    },
+    {
+        "en": "529. I admit that is pretty interesting.",
+        "zh": " 我承认那很有趣。"
+    },
+    {
+        "en": "530. I hope you can keep up with the work.",
+        "zh": " 我希望你能跟上功课。"
+    },
+    {
+        "en": "531. Are you doing well in math class?",
+        "zh": " 你的数学课学得好吗？"
+    },
+    {
+        "en": "532. Do you understand the chemistry homework?",
+        "zh": " 化学作业你能理解吗？"
+    },
+    {
+        "en": "533. It’s hard to hear my English teacher.",
+        "zh": " 很难听清我的英语老师说话。"
+    },
+    {
+        "en": "534. I stayed up all night studying for this test.",
+        "zh": " 我一个晚上没睡，为这场测验做准备。"
+    },
+    {
+        "en": "535. Did you hear our teacher assigned another paper?",
+        "zh": " 你听到我们老师又布置了一篇论文了吗？"
+    },
+    {
+        "en": "536. I’m really bored with this class.",
+        "zh": " 我很厌烦这门课。"
+    },
+    {
+        "en": "537. I like biology more than I first thought.",
+        "zh": " 我比当初想象的要更喜欢生物课。"
+    },
+    {
+        "en": "538. Could you help with the history homework?",
+        "zh": " 你能帮我做历史作业吗？"
+    },
+    {
+        "en": "539. I’m always late for my first class in the morning.",
+        "zh": " 早上的第一节课我总是迟到。"
+    },
+    {
+        "en": "540. I have to go study for my French class.",
+        "zh": " 我必须去上法语课了。"
+    },
+    {
+        "en": "【生词解读】",
+        "zh": "1. natural adj. 自然的；有关自然界的"
+    },
+    {
+        "en": "2. entertainer n. 专业演员；表演者 ",
+        "zh": "3. troublemaker n. 惹麻烦的人；闹事者；捣乱者"
+    },
+    {
+        "en": "4. grouch n. 好抱怨的人 ",
+        "zh": "5. protective adj. 保护的；防护的"
+    },
+    {
+        "en": "6. adopted adj. 被收养的；有收养关系的",
+        "zh": "7. infant n. 婴儿 "
+    },
+    {
+        "en": "556. Where?",
+        "zh": " 在哪？"
+    },
+    {
+        "en": "557. What is it?",
+        "zh": " 这是什么？"
+    },
+    {
+        "en": "558. Is it a tiger?",
+        "zh": " 是只老虎吗？"
+    },
+    {
+        "en": "559. It’s like a dinosaur.",
+        "zh": " 它像只恐龙。"
+    },
+    {
+        "en": "560. Who’s that man?",
+        "zh": " 那个男人是谁？"
+    },
+    {
+        "en": "561. That’s a barbershop.",
+        "zh": " 那是一家理发店。"
+    },
+    {
+        "en": "562. You’re looking at my latest work of art.",
+        "zh": " 你正在看我最新的艺术作品。"
+    },
+    {
+        "en": "563. That’s my house on the left.",
+        "zh": " 左边的那幢就是我的房子。"
+    },
+    {
+        "en": "564. The man in blue is my uncle.",
+        "zh": " 那个穿蓝色衣服的就是我叔叔。"
+    },
+    {
+        "en": "565. I think the man in the suit is a police officer.",
+        "zh": " 我想穿西装的那个男人是一名警官。"
+    },
+    {
+        "en": "566. His name tag says he is a doctor.",
+        "zh": " 他的名牌上说他是一名医生。"
+    },
+    {
+        "en": "567. The brown car belongs to my sister.",
+        "zh": " 这辆棕色的车是我姐姐的。"
+    },
+    {
+        "en": "568. I think the red car is Japanese.",
+        "zh": " 我想这辆红色的车是日本车。"
+    },
+    {
+        "en": "569. I think that animal is a tiger.",
+        "zh": " 我想那动物是只老虎。"
+    },
+    {
+        "en": "570. Those are my shoes under the chair.",
+        "zh": " 椅子下面有我的鞋子。"
+    },
+    {
+        "en": "571. What does he look like?",
+        "zh": " 他长得什么样？"
+    },
+    {
+        "en": "572. He’s kind of tall and thin.",
+        "zh": " 他有点高，有点瘦。"
+    },
+    {
+        "en": "573. He has a long nose.",
+        "zh": " 他的鼻子很长。"
+    },
+    {
+        "en": "574. He always wears funny ties.",
+        "zh": " 他总是系着滑稽的领带。"
+    },
+    {
+        "en": "575. What does it look like?",
+        "zh": " 它看起来什么样？"
+    },
+    {
+        "en": "576. It’s just a dark blue wool cap.",
+        "zh": " 那只是一顶深蓝色的羊毛帽子。"
+    },
+    {
+        "en": "577. My brother is a thin man.",
+        "zh": " 我弟弟是个瘦子。"
+    },
+    {
+        "en": "578 I live in a brick house.",
+        "zh": " 我住在砖房里。"
+    },
+    {
+        "en": "579. The car is very fast.",
+        "zh": " 这车很快。"
+    },
+    {
+        "en": "580. This bus is very old.",
+        "zh": " 这辆公共汽车很旧了。"
+    },
+    {
+        "en": "581. Have you seen a yellow hat around here?",
+        "zh": " 你在这附近看过一顶黄色帽子吗？"
+    },
+    {
+        "en": "582. I want the small kitten with the orange stripes.",
+        "zh": " 我想要这只有桔黄色条纹的小猫。"
+    },
+    {
+        "en": "583. Can you give me a description of the person?",
+        "zh": " 你能给我描述一下这个人吗？"
+    },
+    {
+        "en": "584. She has a round face and large eyes.",
+        "zh": " 她有一张圆圆的脸蛋，大大的眼睛。"
+    },
+    {
+        "en": "585. The soup was full of many different vegetables",
+        "zh": " 这汤中有许多不同的蔬菜。"
+    },
+    {
+        "en": "586. I need your help.",
+        "zh": " 我需要你的帮助。"
+    },
+    {
+        "en": "587. Could you lend me a hand for a second?",
+        "zh": " 你能帮我一下吗？"
+    },
+    {
+        "en": "588. Could you do me a favor?",
+        "zh": " 你能帮个忙吗？"
+    },
+    {
+        "en": "589. Excuse me.",
+        "zh": " 打扰一下。"
+    },
+    {
+        "en": "590. Would you mind putting out that cigarette?",
+        "zh": " 你介意把香烟灭了吗？"
+    },
+    {
+        "en": "591. Could you turn down the music?",
+        "zh": " 把音乐关小一点好吗？"
+    },
+    {
+        "en": "592. Just return the book when you’re finished with it.",
+        "zh": " 你一看完就把这书还回来。"
+    },
+    {
+        "en": "593. Could you edit this paper for me?",
+        "zh": " 你能帮我编辑一下这篇文章吗？"
+    },
+    {
+        "en": "594. Would you mind moving over a little?",
+        "zh": " 你介意挪一挪吗？"
+    },
+    {
+        "en": "595. Please stop talking so loud.",
+        "zh": " 请不要大声说话。"
+    },
+    {
+        "en": "596. Why don’t you come with me to the store?",
+        "zh": " 你为什么不和我一起去商店呢？"
+    },
+    {
+        "en": "597. Can you lend me your car this afternoon?",
+        "zh": " 今天下午你能把你的车借给我么？"
+    },
+    {
+        "en": "598. Can you give me a ride into town?",
+        "zh": " 你能送我进城吗？"
+    },
+    {
+        "en": "599. Let me take a look at that picture.",
+        "zh": " 让我看看那照片。"
+    },
+    {
+        "en": "600. Can I borrow your pen for a moment?",
+        "zh": " 我能借用一下你的钢笔吗？"
+    },
+    {
+        "en": "601. I was going over to the library to study.",
+        "zh": " 我正要去图书馆学习。"
+    },
+    {
+        "en": "602. I won’t get any studying done there at all.",
+        "zh": " 在那儿我根本就不能学习。"
+    },
+    {
+        "en": "603. I’m trying to finish the reading assignment for our physics class.",
+        "zh": " 我在尽力完成我们物理课的阅读作业。"
+    },
+    {
+        "en": "604. I’ve got to start preparing tonight.",
+        "zh": " 我必须今晚开始准备。"
+    },
+    {
+        "en": "605. The problem is that I missed two days of class last week.",
+        "zh": " 问题是我上个星期缺了两天的课。"
+    },
+    {
+        "en": "606. I’ve got to go to baseball practice.",
+        "zh": " 我必须去做棒球训练。"
+    },
+    {
+        "en": "607. Are you going to the class meeting later?",
+        "zh": " 你待会儿去开班会吗？"
+    },
+    {
+        "en": "608. How many classes have you missed so far?",
+        "zh": " 到目前为止，你缺了多少课？"
+    },
+    {
+        "en": "609. He’s involved in too many sports and activities.",
+        "zh": " 他参加了太多的体育运动和其他活动。"
+    },
+    {
+        "en": "610. I’m going to the gym for a little bit.",
+        "zh": " 我要去体育馆锻炼一下。"
+    },
+    {
+        "en": "611. What are you writing about for your class paper?",
+        "zh": " 你的课程论文写什么？"
+    },
+    {
+        "en": "612. I’ve got to go meet a professor.",
+        "zh": " 我必须去见一位教授。"
+    },
+    {
+        "en": "613. Do you want to study together?",
+        "zh": " 你想一起学习吗？"
+    },
+    {
+        "en": "614. I’m going to get some coffee in the dining hall.",
+        "zh": " 我要去餐厅喝点咖啡。"
+    },
+    {
+        "en": "615. The dean wants to meet my parents.",
+        "zh": " 教务长想见见我的父母。"
+    },
+    {
+        "en": "616. Are these the books you’re checking out?",
+        "zh": " 这些是你要借的书吗？"
+    },
+    {
+        "en": "617. When are they due back?",
+        "zh": " 要什么时候还？"
+    },
+    {
+        "en": "618. It seems you still have a book overdue.",
+        "zh": " 看来你还有一本书过期了。"
+    },
+    {
+        "en": "619. You can have them for one month.",
+        "zh": " 你可以借一个月。"
+    },
+    {
+        "en": "620. It’s $0.5 a day for overdue books.",
+        "zh": " 过期的书要收50美分一天。"
+    },
+    {
+        "en": "621. Do you have any books on Russia?",
+        "zh": " 你们有关于俄国方面的书吗？"
+    },
+    {
+        "en": "622. You’re not supposed to talk in the library.",
+        "zh": " 在图书馆你不许说话。"
+    },
+    {
+        "en": "623. Is the photocopier working?",
+        "zh": " 复印机在用吗？"
+    },
+    {
+        "en": "624. That book is on reserve for a professor.",
+        "zh": " 那本书被一位教授预定了。"
+    },
+    {
+        "en": "625. We only have one copy of that book.",
+        "zh": " 那本书我们只有一本。"
+    },
+    {
+        "en": "626. She is a very popular author.",
+        "zh": " 她是个很受欢迎的作者。"
+    },
+    {
+        "en": "627. This library needs to get some more up-to-date books.",
+        "zh": " 图书馆需要多一些最新的书。"
+    },
+    {
+        "en": "628. Where are the math books located?",
+        "zh": " 数学书在哪？"
+    },
+    {
+        "en": "629. What time does the library close today?",
+        "zh": " 图书馆今天什么时候关门？"
+    },
+    {
+        "en": "630. I hate when people write in library books.",
+        "zh": " 我讨厌别人在图书馆的书上写字。"
+    },
+    {
+        "en": "631. I’m really having a good time.",
+        "zh": " 我真是玩得很开心。"
+    },
+    {
+        "en": "632. It’s too crowded to push my way through to the kitchen.",
+        "zh": " 人太多了,很难挤到厨房那边去。"
+    },
+    {
+        "en": "633. Do you know anybody at this party?",
+        "zh": " 在这聚会上，你认识什么人吗？"
+    },
+    {
+        "en": "634. I’m going to have some fun while I’m here.",
+        "zh": " 我会在这儿玩得开心的。"
+    },
+    {
+        "en": "635. Why don’t we stay for about half an hour to see if anyone else arrives?",
+        "zh": " 我们为什么不呆半个小时，看看有没有别的人来?"
+    },
+    {
+        "en": "636. I think we’re out of beer.",
+        "zh": " 我想我们没有啤酒了。"
+    },
+    {
+        "en": "637. Did anyone invite that guy?",
+        "zh": " 有谁邀请那个人了吗？"
+    },
+    {
+        "en": "638. These parties are always so popular.",
+        "zh": " 这些聚会总是很受欢迎。"
+    },
+    {
+        "en": "639. There are too many older students here tonight.",
+        "zh": " 今晚这里有太多年纪大的学生了。"
+    },
+    {
+        "en": "640. Should I go talk to that girl over there?",
+        "zh": " 我应该过去和那个女孩说话吗？"
+    },
+    {
+        "en": "641. Can you tell me where the bathroom is?",
+        "zh": " 你能告诉我洗手间在哪吗？"
+    },
+    {
+        "en": "642. I think some people are leaving to go to another party.",
+        "zh": " 我想有些人在离开去参加另一个聚会了。"
+    },
+    {
+        "en": "643. You should slow down with the drinking.",
+        "zh": " 你应该慢点喝。"
+    },
+    {
+        "en": "644. I’m tired, so I’m going home.",
+        "zh": " 我累了，所以我要回家了。"
+    },
+    {
+        "en": "645. It’s always the same faces at these parties.",
+        "zh": " 这些聚会上，总是些老面孔。"
+    },
+    {
+        "en": "646. I guess this is a really popular movie.",
+        "zh": " 我猜想这是一部很受欢迎的电影。"
+    },
+    {
+        "en": "647. Are there any movies you want to see in case this one is sold out?",
+        "zh": " 万一这部电影没票了，你还想看别的吗？"
+    },
+    {
+        "en": "648. We’ve got a few minutes before the start of the movie.",
+        "zh": " 离电影开始还有几分钟。"
+    },
+    {
+        "en": "649. That movie was too scary .",
+        "zh": " 那部电影太吓人了。"
+    },
+    {
+        "en": "650. There’s one out now about a talking horse.",
+        "zh": " 现在有一部关于一匹会说话的马的电影在公映。"
+    },
+    {
+        "en": "651. I think my seat is near the aisle.",
+        "zh": " 我想我的座位是靠近过道的。"
+    },
+    {
+        "en": "652. This theater is packed tonight.",
+        "zh": " 这个电影院今晚挤满了人。"
+    },
+    {
+        "en": "653. The film is sold out for tonight.",
+        "zh": " 这场电影今晚没票了。"
+    },
+    {
+        "en": "654. What time does the show start?",
+        "zh": " 演出什么时候开始？"
+    },
+    {
+        "en": "655. Let’s go find our seats.",
+        "zh": " 我们去找座位吧。"
+    },
+    {
+        "en": "656. The plot wasn’t very realistic.",
+        "zh": " 情节不大现实。"
+    },
+    {
+        "en": "657. The director seemed to rely mostly on special effects.",
+        "zh": " 看起来导演好像大部分依赖特技效果。"
+    },
+    {
+        "en": "658. This movie is based on a true story.",
+        "zh": " 这部电影是根据真实故事改编的。"
+    },
+    {
+        "en": "659. I think this scene was filmed in my hometown.",
+        "zh": " 我想这个场景是在我的家乡拍摄的。"
+    },
+    {
+        "en": "660. Can you believe how much a bag of popcorn costs at this theater?",
+        "zh": " 你简直不敢相信在这家电影院一袋爆米花要多少钱。"
+    },
+    {
+        "en": "661. He has an injured leg.",
+        "zh": " 他有一条腿受伤了。"
+    },
+    {
+        "en": "662. The doctor’s seeing him at this time.",
+        "zh": " 医生现在正在给他诊治。"
+    },
+    {
+        "en": "663. Do you know anything about his condition?",
+        "zh": " 你知道他现在的情况吗？"
+    },
+    {
+        "en": "664. I thought it might be more serious.",
+        "zh": " 我以为可能会更严重些。"
+    },
+    {
+        "en": "665. Your mother is now in stable condition.",
+        "zh": " 你母亲现在的病情稳定了。"
+    },
+    {
+        "en": "666. Which hand is bothering you?",
+        "zh": " 你哪只手有毛病？"
+    },
+    {
+        "en": "667. How long has it been swollen like that?",
+        "zh": " 肿成这样有多久了？"
+    },
+    {
+        "en": "668. Can you roll up your sleeve for me to have a look?",
+        "zh": " 你能把袖子卷起来让我看看吗？"
+    },
+    {
+        "en": "669. Do you have any insurance?",
+        "zh": " 你有保险吗？"
+    },
+    {
+        "en": "670. Do you have a history of heart trouble?",
+        "zh": " 你有心脏病史吗？"
+    },
+    {
+        "en": "671. We have no spare beds right now.",
+        "zh": " 我们现在没有多余的床位。"
+    },
+    {
+        "en": "672. The pain is mostly in my lower back.",
+        "zh": " 疼痛主要在下背部。"
+    },
+    {
+        "en": "673. Does it hurt when I do this?",
+        "zh": " 我这样你感到疼吗？"
+    },
+    {
+        "en": "674. I’ll write you a prescription .",
+        "zh": " 我给你开个药方。"
+    },
+    {
+        "en": "675. You should take it easy on that leg for a few weeks.",
+        "zh": " 你的那条腿要休息几个星期。"
+    },
+    {
+        "en": "676. It’s not very exciting to wait in line at the post office.",
+        "zh": " 在邮局排着队等可不是什么好玩的事情。"
+    },
+    {
+        "en": "677. I’ve got to mail this stuff for my boss.",
+        "zh": " 我必须帮我老板把这东西邮寄了。"
+    },
+    {
+        "en": "678. It’s just a letter to my mother.",
+        "zh": " 只是封给我妈妈的信。"
+    },
+    {
+        "en": "679. I need to have this package air mailed.",
+        "zh": " 我必须航空邮寄这包裹。"
+    },
+    {
+        "en": "680. I’ve been expecting a package that should have been here two weeks ago.",
+        "zh": " 我在等一个包裹，这个包裹两个星期前就应该到了。"
+    },
+    {
+        "en": "681. How much more does express mail cost?",
+        "zh": " 特快专递要多花多少钱？"
+    },
+    {
+        "en": "682. Can I get insurance on this package?",
+        "zh": " 这包裹能保险吗？"
+    },
+    {
+        "en": "683. I need to change my mailing address.",
+        "zh": " 我需要更改我的邮政地址。"
+    },
+    {
+        "en": "684. This package weighs 11 ounces.",
+        "zh": " 这件包裹重11盎司。"
+    },
+    {
+        "en": "685. That’s the box of out-of-town mail.",
+        "zh": " 那是外地信件邮箱。"
+    },
+    {
+        "en": "686. How much for a book of stamps?",
+        "zh": " 一本集邮册多少钱？"
+    },
+    {
+        "en": "687. Can I get a postcard here?",
+        "zh": " 这儿有明信片吗？"
+    },
+    {
+        "en": "688. Is there a supervisor that I can speak with?",
+        "zh": " 我能找一位主管谈谈吗？"
+    },
+    {
+        "en": "689. I like these new stamps.",
+        "zh": " 我喜欢这些新邮票。"
+    },
+    {
+        "en": "690. Can I apply for a passport here?",
+        "zh": " 我能在这申请护照吗？"
+    },
+    {
+        "en": "691. Is this the right place to open up an account?",
+        "zh": " 是在这里开户吗？"
+    },
+    {
+        "en": "692. I need to start a bank account.",
+        "zh": " 我需要开户。"
+    },
+    {
+        "en": "693. Will this be a checking or savings account?",
+        "zh": " 这是支票账户，还是储蓄账户？"
+    },
+    {
+        "en": "694. I’m told that I have insufficient funds.",
+        "zh": " 我被告知存款不足。"
+    },
+    {
+        "en": "695. What are your home loan interest rates?",
+        "zh": " 你住房贷款的利率是多少？"
+    },
+    {
+        "en": "696. Can you help me finance a car?",
+        "zh": " 你能帮我贷款买车吗？"
+    },
+    {
+        "en": "697. What’s my current balance?",
+        "zh": " 我现在的余额是多少？"
+    },
+    {
+        "en": "698. My ATM card has stopped working.",
+        "zh": " 我的银行卡失效了。"
+    },
+    {
+        "en": "699. You don’t need a passport for routine business.",
+        "zh": " 日常事务你不需要护照。"
+    },
+    {
+        "en": "700. I can’t remember my account number.",
+        "zh": " 我记不起我的账号了。"
+    },
+    {
+        "en": "701. Is there a minimum balance needed for an account?",
+        "zh": " 这个账户有最低余额限制吗？"
+    },
+    {
+        "en": "702. I want traveler’s checks.",
+        "zh": " 我想要旅行支票。"
+    },
+    {
+        "en": "703. I have a joint account with my wife.",
+        "zh": " 我和我妻子有一个联名账户。"
+    },
+    {
+        "en": "704. Can I have a receipt for this?",
+        "zh": " 能给我开个收据吗？"
+    },
+    {
+        "en": "705. Your account is overdrawn .",
+        "zh": " 你的账户透支了。"
+    },
+    {
+        "en": "706. This soup is incredible! Have you tried it yet?",
+        "zh": " 这汤真是不错！你尝过吗？"
+    },
+    {
+        "en": "707. I was trying to decide what to order.",
+        "zh": " 我正在想该点些什么。"
+    },
+    {
+        "en": "708. I’m going to have the steak.",
+        "zh": " 我要来一份牛排。"
+    },
+    {
+        "en": "709. I’ve never had fried chicken this good before.",
+        "zh": " 我以前从没有吃过这么好的炸鸡。"
+    },
+    {
+        "en": "710. How do you want your steak cooked?",
+        "zh": " 你的牛排要几分熟？"
+    },
+    {
+        "en": "711. This chicken is undercooked.",
+        "zh": " 这鸡肉没有熟。"
+    },
+    {
+        "en": "712. My compliments to the chef.",
+        "zh": " 我要称赞厨师。"
+    },
+    {
+        "en": "713. Are you ready to order?",
+        "zh": " 您准备点菜吗？"
+    },
+    {
+        "en": "714. What’s your special today?",
+        "zh": " 你们今天的招牌菜是什么？"
+    },
+    {
+        "en": "715. Would you like any more coffee?",
+        "zh": " 您要不要再来点咖啡？"
+    },
+    {
+        "en": "716. Do you have reservations tonight?",
+        "zh": " 你们今晚预定了桌位吗？"
+    },
+    {
+        "en": "717. Would you like a smoking or non-smoking table?",
+        "zh": " 您要吸烟区的桌子还是禁烟区的?"
+    },
+    {
+        "en": "718. Can I look at a menu?",
+        "zh": " 我能看看菜单吗？"
+    },
+    {
+        "en": "719. Would you like any dessert?",
+        "zh": " 您要甜点吗？"
+    },
+    {
+        "en": "720. What’s the soup of the day?",
+        "zh": " 今天有什么汤？"
+    },
+    {
+        "en": "721. I think I just need a trim .",
+        "zh": " 我想我需要修剪一下头发。"
+    },
+    {
+        "en": "722. And would you like a quick shampoo and rinse?",
+        "zh": " 您要快速洗一下头吗？"
+    },
+    {
+        "en": "723. You can never be too careful with a customer’s hair.",
+        "zh": " 你对待客人的头发越仔细越好。"
+    },
+    {
+        "en": "724. Just a little trim on the top and shave it close on the sides.",
+        "zh": " 稍微修剪一下头顶上的头发，边上的剪短一些。"
+    },
+    {
+        "en": "725. Something new would be nice.",
+        "zh": " 来点新样式会很好的。"
+    },
+    {
+        "en": "726. Do you want a little off the top?",
+        "zh": " 上面要不要剪掉一点？"
+    },
+    {
+        "en": "727. Should I taper the back?",
+        "zh": " 后面要打薄吗？"
+    },
+    {
+        "en": "728. How about a shampoo?",
+        "zh": " 要洗头吗？"
+    },
+    {
+        "en": "729. How do you want your hair cut?",
+        "zh": " 您要剪什么样的发型？"
+    },
+    {
+        "en": "730. I’ll try to fix the side.",
+        "zh": " 我会尽量修剪一下侧面的。"
+    },
+    {
+        "en": "731. Do you want a perm ?",
+        "zh": " 您要烫发吗？"
+    },
+    {
+        "en": "732. I don’t need a shave.",
+        "zh": " 我不需要修面。"
+    },
+    {
+        "en": "733. That’s too short in the back.",
+        "zh": " 后面太短了。"
+    },
+    {
+        "en": "734. I have a hair in my eye.",
+        "zh": " 头发到我眼睛里了。"
+    },
+    {
+        "en": "735. Just comb the hair back a little.",
+        "zh": " 把头发往后梳一点。"
+    },
+    {
+        "en": "736. My client has made some very convincing allegations of police brutality .",
+        "zh": " 我的当事人对警察的暴力行为提出了一些令人信服的指控。"
+    },
+    {
+        "en": "737. He claims that your officers assaulted him.",
+        "zh": " 他声称你的警官殴打了他。"
+    },
+    {
+        "en": "738. Do you have any proof of these claims?",
+        "zh": " 这些指控你有什么证据吗？"
+    },
+    {
+        "en": "739. You’ll be hearing from me soon.",
+        "zh": " 你很快会收到我的消息的。"
+    },
+    {
+        "en": "740. I need to file a missing person’s report.",
+        "zh": " 我需要报案，有人失踪了。"
+    },
+    {
+        "en": "741. Arrests have declined this month.",
+        "zh": " 这个月逮捕的人数减少了。"
+    },
+    {
+        "en": "742. Can you identify the suspect?",
+        "zh": " 你能认出嫌疑犯吗？"
+    },
+    {
+        "en": "743. He resisted arrest violently .",
+        "zh": " 他激烈地拒捕。"
+    },
+    {
+        "en": "744. I want to call my lawyer.",
+        "zh": " 我想给我的律师打电话。"
+    },
+    {
+        "en": "745. We just have a few questions for you.",
+        "zh": " 我们有几个问题想问你。"
+    },
+    {
+        "en": "746. The officer was very helpful to me.",
+        "zh": " 这位警官对我帮助很大。"
+    },
+    {
+        "en": "747. Are you sure the suspect fired more than once?",
+        "zh": " 你确信嫌疑犯放火不止一次了吗？"
+    },
+    {
+        "en": "748. That area is out of our jurisdiction .",
+        "zh": " 那个区域不在我们司法权管辖范围内。"
+    },
+    {
+        "en": "749. This is the busiest precinct in the city.",
+        "zh": " 这是这个城市最繁忙的管辖区。"
+    },
+    {
+        "en": "750. I need your signature on this report.",
+        "zh": " 我需要你在这报告上签名。"
+    },
+    {
+        "en": "751. Welcome to the Comfort Hotel.",
+        "zh": " 欢迎来到康福德旅店。"
+    },
+    {
+        "en": "752. I just need a room for two.",
+        "zh": " 我要一间双人房。"
+    },
+    {
+        "en": "753. Do you have any vacancies ?",
+        "zh": " 你们有空房间吗？"
+    },
+    {
+        "en": "754. One double bed will be fine.",
+        "zh": " 一张双人床就行了。"
+    },
+    {
+        "en": "755. Would you like a discount on your room charge?",
+        "zh": " 你的住宿费需要打折吗？"
+    },
+    {
+        "en": "756. I’m like a wake-up call.",
+        "zh": " 我想要叫醒服务。"
+    },
+    {
+        "en": "757. Would you like some help with your bags?",
+        "zh": " 要帮您提包吗？"
+    },
+    {
+        "en": "758. We don’t allow pets in our rooms.",
+        "zh": " 我们房间不允许宠物入内。"
+    },
+    {
+        "en": "759. Fresh towels are in the bathroom.",
+        "zh": " 干净的毛巾在浴室里。"
+    },
+    {
+        "en": "760. Room service can be called at the front desk.",
+        "zh": " 在前台有客房服务。"
+    },
+    {
+        "en": "761. Do you want a single or double bed?",
+        "zh": " 您要单人床还是双人床？"
+    },
+    {
+        "en": "762. The elevator is at the end of the hall.",
+        "zh": " 电梯在大厅的尽头。"
+    },
+    {
+        "en": "763. Outside calls will be added to your bill.",
+        "zh": " 外线电话费会记在您的账单上的。"
+    },
+    {
+        "en": "764. I don’t have any hot water in my room.",
+        "zh": " 我的房间里没有热水。"
+    },
+    {
+        "en": "765. I need a taxi to the airport.",
+        "zh": " 我需要一辆出租车去机场。"
+    },
+    {
+        "en": "766. Please have a seat.",
+        "zh": " 请坐。"
+    },
+    {
+        "en": "767. How do you feel about working on weekends?",
+        "zh": " 你觉得周末上班怎么样？"
+    },
+    {
+        "en": "768. The yacht market is slow this time of the year.",
+        "zh": " 一年中的这个时候，游艇市场很低靡。"
+    },
+    {
+        "en": "769. You haven’t made a single sale in the past 3 weeks.",
+        "zh": " 过去的三个星期里，你一笔销售业务也没有做成。"
+    },
+    {
+        "en": "770. I’ll try to help you make a dent in some of that work.",
+        "zh": " 我会尽量帮你着手其中的一些工作。"
+    },
+    {
+        "en": "771. How does this fax machine work?",
+        "zh": " 这传真机效果如何？"
+    },
+    {
+        "en": "772. Is the repairman coming to fix the photocopier?",
+        "zh": " 修理人员来修复印机了吗？"
+    },
+    {
+        "en": "773. I’m going on a break to get some coffee.",
+        "zh": " 我要休息一下，去喝点咖啡。"
+    },
+    {
+        "en": "774. These accounts need to be paid immediately .",
+        "zh": " 这些账单要马上付。"
+    },
+    {
+        "en": "775. I heard there’re going to lay off some people this quarter.",
+        "zh": " 我听说这个季度要裁一些人。"
+    },
+    {
+        "en": "776. Sales have gone way up this month.",
+        "zh": " 这个月销售上升很快。"
+    },
+    {
+        "en": "777. I left the papers on my desk.",
+        "zh": " 我把文件放在桌子上了。"
+    },
+    {
+        "en": "778. We need to cut costs somewhere in this office.",
+        "zh": " 我们办公室必须削减开支了。"
+    },
+    {
+        "en": "779. Has the outgoing mail left for the day?",
+        "zh": " 要寄出的邮件今天寄出了吗？"
+    },
+    {
+        "en": "780. Can someone answer that phone?",
+        "zh": " 有谁能去接一下电话吗？ "
+    },
+    {
+        "en": " ",
+        "zh": "【生词解读】"
+    },
+    {
+        "en": "1. yacht n. 快艇；游艇",
+        "zh": "2. fax machine 传真机 "
+    },
+    {
+        "en": "3. repairman n. 修理工",
+        "zh": "4. immediately adv. 立即；即刻；马上"
+    },
+    {
+        "en": "5. outgoing n. 外出；流出；支出"
+    },
+    {
+        "en": "Do you know what bus leads to Memorial Stadium? ",
+        "zh": "你知道什么车去纪念碑体育馆吗？"
+    },
+    {
+        "en": "There should be a bus stop right at the Stadium.",
+        "zh": "在体育馆应该有一站的。"
+    },
+    {
+        "en": "Do you know what bus is going to the theater?",
+        "zh": "你知道几路公共汽车去剧院吗？"
+    },
+    {
+        "en": "It’s about 3 stops from here-maybe 15 minutes.",
+        "zh": "离这儿大约三站，也许15分钟。"
+    },
+    {
+        "en": "This says the last bus leaves at 9:45.",
+        "zh": "这上面说，最后一班车9：45开。"
+    },
+    {
+        "en": "Our bus is late.",
+        "zh": "我们的车晚了。"
+    },
+    {
+        "en": "That bus is too crowded to board.",
+        "zh": "那辆车太拥挤了，上不了。"
+    },
+    {
+        "en": "Can you read the bus schedule on that sign?",
+        "zh": "你能看清站牌上的公共汽车时刻表吗？"
+    },
+    {
+        "en": "The benches are too wet to sit on.",
+        "zh": "这些长椅子太湿了没法坐。"
+    },
+    {
+        "en": "That bus needs some new brakes.",
+        "zh": "那辆公共汽车需要新刹车了。"
+    },
+    {
+        "en": "The exhaust fumes are choking me.",
+        "zh": "排放的废气让我窒息。"
+    },
+    {
+        "en": "How much is the fare for the bus?",
+        "zh": "车票多少钱？"
+    },
+    {
+        "en": "There are no seats left on the bus.",
+        "zh": "你知道什么车去纪念碑体育馆吗？"
+    },
+    {
+        "en": "Can you give me change for the bus?",
+        "zh": "车上没有座位了。"
+    },
+    {
+        "en": "Is this bus going uptown?",
+        "zh": "这车是去住宅区的吗？"
+    },
+    {
+        "en": " Thank you for flying with Skyway Airlines.",
+        "zh": " 感谢您乘坐航路航空公司的航班。"
+    },
+    {
+        "en": " May I see your ticket, please?",
+        "zh": " 能看看您的机票吗？"
+    },
+    {
+        "en": " 798. My shoulder bag is carry-on luggage.",
+        "zh": " 我的挎包是随身行李。"
+    },
+    {
+        "en": " 799. Boarding will begin in about 30 minutes.",
+        "zh": " 大约三十分钟后登机。"
+    },
+    {
+        "en": " 800. When does your flight land?",
+        "zh": " 你的航班什么时候着陆？"
+    },
+    {
+        "en": " 801. What terminal am I leaving from?",
+        "zh": " 我最后从哪个出口出来？"
+    },
+    {
+        "en": " 802. The security check is going to take a while.",
+        "zh": " 安全检查要花一点时间。"
+    },
+    {
+        "en": " 803. I hope the X-ray machine doesn’t damage my film.",
+        "zh": " 我希望X光机不会损坏我的胶卷。"
+    },
+    {
+        "en": " 804. Don’t even joke about having a bomb or a gun.",
+        "zh": " 甚至不要开玩笑地说你身上有炸弹或枪。"
+    },
+    {
+        "en": " 805. This is going to be a long flight.",
+        "zh": " 这将是一次长途飞行。"
+    },
+    {
+        "en": " 806. The arrival time has been delayed due to bad weather.",
+        "zh": " 由于天气不好，到达时间延误了。"
+    },
+    {
+        "en": " 807. That bag is too heavy to be carry-on luggage.",
+        "zh": " 那个包太重了，不能当作随身行李。"
+    },
+    {
+        "en": " 808. Where is the baggage claim area?",
+        "zh": " 在哪领行李？"
+    },
+    {
+        "en": " 809. This is your boarding pass.",
+        "zh": " 这是你的登机证。"
+    },
+    {
+        "en": " 810. May I see your passport?",
+        "zh": " 我能看看您的护照吗？"
+    },
+    {
+        "en": "811. It should be here in the next two or three minutes.",
+        "zh": " 再过两三分钟就该到了。"
+    },
+    {
+        "en": " 812. It’s just getting on my nerves.",
+        "zh": " 我有点烦躁了。"
+    },
+    {
+        "en": " 813. When does the next train leave for New Orleans?",
+        "zh": " 下一班开往新奥尔良的火车什么时候开？"
+    },
+    {
+        "en": " 814. I’ve got kind of a problem.",
+        "zh": " 我有点问题。"
+    },
+    {
+        "en": " 815. There are Tri-State Rail System trains leaving every half hour for the city.",
+        "zh": " 三州铁路系统开往这个城市的火车每半个小时一班。"
+    },
+    {
+        "en": " 816. This is a new section of railroad track.",
+        "zh": " 这是一段新的铁轨。"
+    },
+    {
+        "en": " 817. The Northeast corridor is the busiest section of the country for train travel.",
+        "zh": " 西北走廊是这个国家火车旅行最繁忙的区域。"
+    },
+    {
+        "en": " 818. That’s the last call to board the train.",
+        "zh": " 那是最后一次上车通知了。"
+    },
+    {
+        "en": " 819. I think I hear the train coming.",
+        "zh": " 我想我听到火车来了。"
+    },
+    {
+        "en": " 820. I hope I get a window seat.",
+        "zh": " 我希望我有靠窗口的座位。"
+    },
+    {
+        "en": " 821. Why do these trains always leave at the end of the day?",
+        "zh": " 为什么这些火车总是在一天要结束的时候才发车？"
+    },
+    {
+        "en": " 822. I bought my tickets over the phone.",
+        "zh": " 我通过电话定的票。"
+    },
+    {
+        "en": " 823. I want to buy a ticket for Denver to Los Angeles ",
+        "zh": " 我想买一张丹佛到洛杉矶的车票。"
+    },
+    {
+        "en": " 824. Have you seen our conductor?",
+        "zh": " 你看到我们的售票员了吗？"
+    },
+    {
+        "en": " 825. I’m going to get a drink from the dining car.",
+        "zh": " 我要去餐车喝点东西。"
+    },
+    {
+        "en": " 826. He’s not as common around here as Mickey Mouse.",
+        "zh": " 在这里他没有米老鼠那么有名。"
+    },
+    {
+        "en": " 827. My favorite character was Donald Duck.",
+        "zh": " 我最喜欢的形象是唐老鸭。"
+    },
+    {
+        "en": " 828. He seemed like a regular guy.",
+        "zh": " 他看起来是个普通人。"
+    },
+    {
+        "en": " 829. What do you want to see next?",
+        "zh": " 接下来你想看什么？"
+    },
+    {
+        "en": " 830. It sounds like you prefer old movies in general.",
+        "zh": " 听起来你一般更喜欢老电影。"
+    },
+    {
+        "en": " 831. Let’s go see Space Mountain.",
+        "zh": " 我们去看太空山吧。"
+    },
+    {
+        "en": " 832. That roller coaster terrified me.",
+        "zh": " 那过山车真把我吓坏了。"
+    },
+    {
+        "en": " 833. Do you see Goofy?",
+        "zh": " 你看了高斐狗吗？"
+    },
+    {
+        "en": " 834. I don’t want to go to the gift shop and spend more money.",
+        "zh": " 我不想去礼品店花更多的钱。"
+    },
+    {
+        "en": " 835.I remember coming here when I was a little kid.",
+        "zh": " 我记得当我还是个孩子的时候来过这里。"
+    },
+    {
+        "en": " 836. We spent the past hour at Main Street USA.",
+        "zh": " 上一个小时我们在“美国主要大街”度过。"
+    },
+    {
+        "en": " 837. I think Disney World is too much of a tourist trap.",
+        "zh": " 我认为迪斯尼乐园太吸引游客了。"
+    },
+    {
+        "en": " 838. Did you know they just opened a Disney World in Japan?",
+        "zh": " 你知道吗，日本刚开了一个迪斯尼乐园。"
+    },
+    {
+        "en": " 839. I heard they might open another in China.",
+        "zh": " 我听说可能在中国也会开一个。"
+    },
+    {
+        "en": " 840. I’m staying at the hotel at Epcot Center.",
+        "zh": " 我住在Epcot中心的旅馆里。"
+    },
+    {
+        "en": " 841. Don’t you look at yourself in the mirror too?",
+        "zh": " 难道你自己不照镜子吗？"
+    },
+    {
+        "en": " 842. They must work out all the time.",
+        "zh": " 他们一定得一直锻炼。"
+    },
+    {
+        "en": " 843. Why do you go to the gym so much?",
+        "zh": " 你为什么经常去健身房？"
+    },
+    {
+        "en": " 844. It’s good for me to be healthy.",
+        "zh": " 身体健康对我有好处。"
+    },
+    {
+        "en": " 845. It’s never good to put such a high value on appearances.",
+        "zh": " 如此重视外表是不好的。"
+    },
+    {
+        "en": " 846. My muscles feel numb.",
+        "zh": " 我感觉肌肉麻木。"
+    },
+    {
+        "en": " 847. I can’t move a muscle.",
+        "zh": " 我一动也动不了了。"
+    },
+    {
+        "en": " 848. I’m exhausted.",
+        "zh": " 我累坏了。"
+    },
+    {
+        "en": " 849. I’m going to spend a few more minutes on the exercise bike.",
+        "zh": " 我要在骑车器上再锻炼一会儿。"
+    },
+    {
+        "en": " 850. It’s too crowded in the gym at night.",
+        "zh": " 晚上健身房里太拥挤了。"
+    },
+    {
+        "en": " 851. Someone needs to fix the leg press machine.",
+        "zh": " 得有人来修理一下压腿机。"
+    },
+    {
+        "en": " 852. I’m going to relax in the sauna.",
+        "zh": " 我要去泡桑拿，放松一下。"
+    },
+    {
+        "en": " 853. How many more exercises do you have to do?",
+        "zh": " 你还要再做多少锻炼？"
+    },
+    {
+        "en": " 854. How often do you work out?",
+        "zh": " 你每隔多久锻炼一次？"
+    },
+    {
+        "en": " 855. He’s a firefighter, so he has to exercise often.",
+        "zh": " 他是个消防队员，所以他必须经常锻炼。"
+    },
+    {
+        "en": " 856. I have to take a break for a second.",
+        "zh": " 我必须休息一下。"
+    },
+    {
+        "en": " 857. When I was running, I twisted my ankle.",
+        "zh": " 我跑步的时候扭到了脚踝。"
+    },
+    {
+        "en": " 858. Just don't neglect an injury.",
+        "zh": " 别忽视了伤口。"
+    },
+    {
+        "en": " 859. That was a good game we played.",
+        "zh": " 那场比赛我们打得不错。"
+    },
+    {
+        "en": " 860. We’re in the middle of a game.",
+        "zh": " 我们正在比赛。"
+    },
+    {
+        "en": " 861. He’s playing too rough.",
+        "zh": " 他打得太猛了。"
+    },
+    {
+        "en": " 862. We can still win this game.",
+        "zh": " 我们还是能赢得这场比赛。"
+    },
+    {
+        "en": " 863. We need to start playing hard.",
+        "zh": " 我们必须开始艰苦比赛了。"
+    },
+    {
+        "en": " 864.You guys are getting lazy.",
+        "zh": " 你们这些家伙太懒了。"
+    },
+    {
+        "en": " 865. That referee is blind.",
+        "zh": " 那个裁判简直是瞎了眼。"
+    },
+    {
+        "en": " 866. I can’t believe I dropped that pass.",
+        "zh": " 我简直不相信，传过来的球我竟然没有接住。"
+    },
+    {
+        "en": " 867. If it keeps raining, we’ll have to stop the game.",
+        "zh": " 如果雨继续下的话，我们就必须终止比赛了。"
+    },
+    {
+        "en": " 868. I think he was out of bounds.",
+        "zh": " 我想他出界了。"
+    },
+    {
+        "en": " 869. That goal was pure luck.",
+        "zh": " 那个球纯属运气。"
+    },
+    {
+        "en": " 870. Who has the ball?",
+        "zh": " 谁拿到了球？"
+    },
+    {
+        "en": " 871. I'm just looking for your travel section.",
+        "zh": " 我在找你们书店旅游方面的书。"
+    },
+    {
+        "en": " 872. Is there a specific book you're looking for?",
+        "zh": " 你在找某一本书吗？"
+    },
+    {
+        "en": " 873. I wanted to see what books you had about that.",
+        "zh": " 我想看看关于那方面你有什么书。"
+    },
+    {
+        "en": "874. This book is very popular right now with little boys.",
+        "zh": " 现在这本书很受小男孩们欢迎。"
+    },
+    {
+        "en": "875. This is a classic.",
+        "zh": " 这是本经典名著。"
+    },
+    {
+        "en": "876. I want to return this book.",
+        "zh": " 我想还这本书。"
+    },
+    {
+        "en": " 877. Can you gift-wrap this book?",
+        "zh": " 你能把这本书礼品包装一下吗？"
+    },
+    {
+        "en": " 878. We’ll call you when your book comes in.",
+        "zh": " 你的书到了，我们就会给你打电话。"
+    },
+    {
+        "en": " 879. My friend helped write this book.",
+        "zh": " 我的朋友帮我写了这本书。"
+    },
+    {
+        "en": " 880. I’ve read good reviews about that novel.",
+        "zh": " 我读过一些关于那部小说很不错的评论。"
+    },
+    {
+        "en": " 881. It’s hard to find a good book about the Chinese language.",
+        "zh": " 很难找到一本好的汉语方面的书。"
+    },
+    {
+        "en": " 882. Do you have any road atlases?",
+        "zh": " 你们这里有没有道路交通图册？"
+    },
+    {
+        "en": " 883. Why is this book in the psychology section?",
+        "zh": " 为什么这本书在心理学专区？"
+    },
+    {
+        "en": " 884. Do you have the first edition of this book?",
+        "zh": " 你们有这本书的第一版吗？"
+    },
+    {
+        "en": " 885. They have some foreign magazines here.",
+        "zh": " 他们这里有一些国外杂志。"
+    },
+    {
+        "en": " 886. You're always on the phone with your mom for hours.",
+        "zh": " 你总是同你妈妈打电话，一打就是几个小时。"
+    },
+    {
+        "en": " 887. I’m not dressed.",
+        "zh": " 我还没有穿好衣服呢。"
+    },
+    {
+        "en": " 888. I need you to do me one more favor.",
+        "zh": " 我需要你再帮我一个忙。"
+    },
+    {
+        "en": " 889. It’s becoming really messy in there.",
+        "zh": " 那儿变得一团糟。"
+    },
+    {
+        "en": " 890. It’s your turn to cut the grass.",
+        "zh": " 该轮到你除草了。"
+    },
+    {
+        "en": " 891. I’ll take the dog out for a walk.",
+        "zh": " 我把狗带出去遛一遛。"
+    },
+    {
+        "en": "892. You need to clean the floor this afternoon.",
+        "zh": " 你今天下午需要扫地。"
+    },
+    {
+        "en": "893. The refrigerator light isn’t working.",
+        "zh": " 冰箱的灯坏了。"
+    },
+    {
+        "en": "894. We're almost out of toothpaste.",
+        "zh": " 我们的牙膏快要用完了。"
+    },
+    {
+        "en": "895. I just want to relax and watch TV after work.",
+        "zh": " 下班后我只想看电视，放松放松。"
+    },
+    {
+        "en": "896. What’s for dinner tonight?",
+        "zh": " 今天晚餐吃什么？"
+    },
+    {
+        "en": "897. I don’t feel like cooking tonight.",
+        "zh": " 我今晚不想做饭。"
+    },
+    {
+        "en": "898. I spent most of the afternoon taking a nap.",
+        "zh": " 我下午的大部分时间都在打盹。"
+    },
+    {
+        "en": "899. Your parents are coming over for dinner tomorrow.",
+        "zh": " 你父母明天来吃晚饭。"
+    },
+    {
+        "en": "900. Have you met our new neighbors across the street?",
+        "zh": " 你见过我们街对面的新邻居吗？"
+    },
+    {
+        "en": "706. This soup is incredible! Have you tried it yet?",
+        "zh": " 这汤真是不错！你尝过吗？"
+    },
+    {
+        "en": "707. I was trying to decide what to order.",
+        "zh": " 我正在想该点些什么。"
+    },
+    {
+        "en": "708. I’m going to have the steak.",
+        "zh": " 我要来一份牛排。"
+    },
+    {
+        "en": "709. I’ve never had fried chicken this good before.",
+        "zh": " 我以前从没有吃过这么好的炸鸡。"
+    },
+    {
+        "en": "710. How do you want your steak cooked?",
+        "zh": " 你的牛排要几分熟？"
+    },
+    {
+        "en": "711. This chicken is undercooked.",
+        "zh": " 这鸡肉没有熟。"
+    },
+    {
+        "en": "712. My compliments to the chef.",
+        "zh": " 我要称赞厨师。"
+    },
+    {
+        "en": "713. Are you ready to order?",
+        "zh": " 您准备点菜吗？"
+    },
+    {
+        "en": "714. What’s your special today?",
+        "zh": " 你们今天的招牌菜是什么？"
+    },
+    {
+        "en": "715. Would you like any more coffee?",
+        "zh": " 您要不要再来点咖啡？"
+    },
+    {
+        "en": "716. Do you have reservations tonight?",
+        "zh": " 你们今晚预定了桌位吗？"
+    },
+    {
+        "en": "717. Would you like a smoking or non-smoking table?",
+        "zh": " 您要吸烟区的桌子还是禁烟区的?"
+    },
+    {
+        "en": "718. Can I look at a menu?",
+        "zh": " 我能看看菜单吗？"
+    },
+    {
+        "en": "719. Would you like any dessert?",
+        "zh": " 您要甜点吗？"
+    },
+    {
+        "en": "720. What’s the soup of the day?",
+        "zh": " 今天有什么汤？"
+    }
+]
